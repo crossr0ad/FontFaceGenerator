@@ -42,6 +42,7 @@ rules:
       - X-LocaleSpecific
       - X-LocaleSpecific-Light
       - X-LocaleSpecific-Extrabold
+      - Noto Sans JP
     sources:
       # Source Han Sans JP
       - fullNames:
