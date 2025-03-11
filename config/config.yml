@@ -2,9 +2,10 @@
 rules:
   - description: sans-serif
     fontFamilies:
-      # MSP ゴシック
-      - ＭＳ Ｐゴシック
+      # MS Pゴシック
       - MS PGothic
+      - MS Pゴシック
+      - ＭＳ Ｐゴシック
       - MS UI Gothic
       # メイリオ
       - Meiryo
@@ -12,19 +13,47 @@ rules:
       - Meiryo UI
       - メイリオ UI
       # 游ゴシック
-      - Original Yu Gothic
       - Yu Gothic
-      - Yu Gothic M
-      - Yu Gothic UI
-      - Yu Gothic-M
       - YuGothic
+      - 游ゴシック
+      - Original Yu Gothic
+      - CustomYuGothicM
+      - MyYuGothicM
+      # 游ゴシック Light
+      - Yu Gothic Light
+      - Yu Gothic-Light
+      - YuGothic Light
+      - YuGothic-Light
+      - 游ゴシック Light
+      - 游ゴシック-Light
+      # 游ゴシック Medium
+      - Yu Gothic M
+      - Yu Gothic-M
+      - Yu GothicM
+      - Yu Gothic Medium
+      - Yu Gothic-Medium
       - YuGothic M
-      - YuGothic Medium
       - YuGothic-M
       - YuGothicM
-      - 游ゴシック
+      - YuGothic Medium
+      - YuGothic-Medium
+      - 游ゴシック M
+      - 游ゴシック-M
+      - 游ゴシックM
       - 游ゴシック Medium
-      - CustomYuGothicM
+      - 游ゴシック-Medium
+      # 游ゴシック Bold
+      - Yu Gothic Bold
+      - Yu Gothic-Bold
+      - YuGothic Bold
+      - YuGothic-Bold
+      - 游ゴシック Bold
+      - 游ゴシック-Bold
+      # 游ゴシック UI
+      - 游ゴシック UI
+      - Yu Gothic UI
+      - YuGothic UI
+      - YuGothicUI
       # BIZ UDPゴシック
       - BIZ UDPゴシック
       - BIZ UDPGothic
@@ -33,16 +62,16 @@ rules:
       - UD Digi Kyokasho NP-B
       - Microsoft YaHei
       - Microsoft YaHei UI
+      - Noto Sans JP
+      # 特殊フォント
       - -apple-system
       - BlinkMacSystemFont
       - CustomHiraginoSans
-      - MyYuGothicM
       - system-ui
       - ui-sans-serif
       - X-LocaleSpecific
       - X-LocaleSpecific-Light
       - X-LocaleSpecific-Extrabold
-      - Noto Sans JP
     sources:
       # Source Han Sans JP
       - fullNames:

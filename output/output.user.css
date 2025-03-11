@@ -1,181 +1,10 @@
 /* ==UserStyle==
 @name Font Substitution
 @namespace https://github.com/crossr0ad/FontFaceGenerator/
-@version 0.1.1
+@version 0.1.2
 ==/UserStyle== */
 
 @font-face {
-    font-family: "ＭＳ Ｐゴシック";
-    font-weight: 100 200;
-    src: local("Source Han Sans JP ExtraLight");
-}
-
-@font-face {
-    font-family: "ＭＳ Ｐゴシック";
-    font-weight: 300;
-    src: local("Source Han Sans JP Light");
-}
-
-@font-face {
-    font-family: "ＭＳ Ｐゴシック";
-    font-weight: 400;
-    src: local("Source Han Sans JP"), local("Source Han Sans JP Normal");
-}
-
-@font-face {
-    font-family: "ＭＳ Ｐゴシック";
-    font-weight: 500 600;
-    src: local("Source Han Sans JP Medium");
-}
-
-@font-face {
-    font-family: "ＭＳ Ｐゴシック";
-    font-weight: 700;
-    src: local("Source Han Sans JP Bold");
-}
-
-@font-face {
-    font-family: "ＭＳ Ｐゴシック";
-    font-weight: 800 900;
-    src: local("Source Han Sans JP Heavy");
-}
-
-@font-face {
-    font-family: "ＭＳ Ｐゴシック";
-    font-weight: 100;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Thin"), local("Inter Thin");
-}
-
-@font-face {
-    font-family: "ＭＳ Ｐゴシック";
-    font-weight: 200;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text ExtraLight"), local("Inter ExtraLight");
-}
-
-@font-face {
-    font-family: "ＭＳ Ｐゴシック";
-    font-weight: 300;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Light"), local("Inter Light");
-}
-
-@font-face {
-    font-family: "ＭＳ Ｐゴシック";
-    font-weight: 400;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text"), local("Inter Regular"), local("Inter");
-}
-
-@font-face {
-    font-family: "ＭＳ Ｐゴシック";
-    font-weight: 500;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Medium"), local("Inter Medium");
-}
-
-@font-face {
-    font-family: "ＭＳ Ｐゴシック";
-    font-weight: 600;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text SemiBold"), local("Inter SemiBold");
-}
-
-@font-face {
-    font-family: "ＭＳ Ｐゴシック";
-    font-weight: 700;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Bold"), local("Inter Bold");
-}
-
-@font-face {
-    font-family: "ＭＳ Ｐゴシック";
-    font-weight: 800;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text ExtraBold"), local("Inter ExtraBold");
-}
-
-@font-face {
-    font-family: "ＭＳ Ｐゴシック";
-    font-weight: 900;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Black"), local("Inter Black");
-}
-
-@font-face {
-    font-family: "ＭＳ Ｐゴシック";
-    font-weight: 100;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Thin Italic"), local("Inter Thin Italic");
-}
-
-@font-face {
-    font-family: "ＭＳ Ｐゴシック";
-    font-weight: 200;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text ExtraLight Italic"), local("Inter ExtraLight Italic");
-}
-
-@font-face {
-    font-family: "ＭＳ Ｐゴシック";
-    font-weight: 300;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Light Italic"), local("Inter Light Italic");
-}
-
-@font-face {
-    font-family: "ＭＳ Ｐゴシック";
-    font-weight: 400;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Italic"), local("Inter Regular Italic"), local("Inter Italic");
-}
-
-@font-face {
-    font-family: "ＭＳ Ｐゴシック";
-    font-weight: 500;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Medium Italic"), local("Inter Medium Italic");
-}
-
-@font-face {
-    font-family: "ＭＳ Ｐゴシック";
-    font-weight: 600;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text SemiBold Italic"), local("Inter SemiBold Italic");
-}
-
-@font-face {
-    font-family: "ＭＳ Ｐゴシック";
-    font-weight: 700;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Bold Italic"), local("Inter Bold Italic");
-}
-
-@font-face {
-    font-family: "ＭＳ Ｐゴシック";
-    font-weight: 800;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text ExtraBold Italic"), local("Inter ExtraBold Italic");
-}
-
-@font-face {
-    font-family: "ＭＳ Ｐゴシック";
-    font-weight: 900;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Black Italic"), local("Inter Black Italic");
-}
-
-@font-face {
     font-family: "MS PGothic";
     font-weight: 100 200;
     src: local("Source Han Sans JP ExtraLight");
@@ -347,6 +176,348 @@
 }
 
 @font-face {
+    font-family: "MS Pゴシック";
+    font-weight: 100 200;
+    src: local("Source Han Sans JP ExtraLight");
+}
+
+@font-face {
+    font-family: "MS Pゴシック";
+    font-weight: 300;
+    src: local("Source Han Sans JP Light");
+}
+
+@font-face {
+    font-family: "MS Pゴシック";
+    font-weight: 400;
+    src: local("Source Han Sans JP"), local("Source Han Sans JP Normal");
+}
+
+@font-face {
+    font-family: "MS Pゴシック";
+    font-weight: 500 600;
+    src: local("Source Han Sans JP Medium");
+}
+
+@font-face {
+    font-family: "MS Pゴシック";
+    font-weight: 700;
+    src: local("Source Han Sans JP Bold");
+}
+
+@font-face {
+    font-family: "MS Pゴシック";
+    font-weight: 800 900;
+    src: local("Source Han Sans JP Heavy");
+}
+
+@font-face {
+    font-family: "MS Pゴシック";
+    font-weight: 100;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin"), local("Inter Thin");
+}
+
+@font-face {
+    font-family: "MS Pゴシック";
+    font-weight: 200;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight"), local("Inter ExtraLight");
+}
+
+@font-face {
+    font-family: "MS Pゴシック";
+    font-weight: 300;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light"), local("Inter Light");
+}
+
+@font-face {
+    font-family: "MS Pゴシック";
+    font-weight: 400;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text"), local("Inter Regular"), local("Inter");
+}
+
+@font-face {
+    font-family: "MS Pゴシック";
+    font-weight: 500;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium"), local("Inter Medium");
+}
+
+@font-face {
+    font-family: "MS Pゴシック";
+    font-weight: 600;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold"), local("Inter SemiBold");
+}
+
+@font-face {
+    font-family: "MS Pゴシック";
+    font-weight: 700;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold"), local("Inter Bold");
+}
+
+@font-face {
+    font-family: "MS Pゴシック";
+    font-weight: 800;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold"), local("Inter ExtraBold");
+}
+
+@font-face {
+    font-family: "MS Pゴシック";
+    font-weight: 900;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black"), local("Inter Black");
+}
+
+@font-face {
+    font-family: "MS Pゴシック";
+    font-weight: 100;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin Italic"), local("Inter Thin Italic");
+}
+
+@font-face {
+    font-family: "MS Pゴシック";
+    font-weight: 200;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight Italic"), local("Inter ExtraLight Italic");
+}
+
+@font-face {
+    font-family: "MS Pゴシック";
+    font-weight: 300;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light Italic"), local("Inter Light Italic");
+}
+
+@font-face {
+    font-family: "MS Pゴシック";
+    font-weight: 400;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Italic"), local("Inter Regular Italic"), local("Inter Italic");
+}
+
+@font-face {
+    font-family: "MS Pゴシック";
+    font-weight: 500;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium Italic"), local("Inter Medium Italic");
+}
+
+@font-face {
+    font-family: "MS Pゴシック";
+    font-weight: 600;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold Italic"), local("Inter SemiBold Italic");
+}
+
+@font-face {
+    font-family: "MS Pゴシック";
+    font-weight: 700;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold Italic"), local("Inter Bold Italic");
+}
+
+@font-face {
+    font-family: "MS Pゴシック";
+    font-weight: 800;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold Italic"), local("Inter ExtraBold Italic");
+}
+
+@font-face {
+    font-family: "MS Pゴシック";
+    font-weight: 900;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black Italic"), local("Inter Black Italic");
+}
+
+@font-face {
+    font-family: "ＭＳ Ｐゴシック";
+    font-weight: 100 200;
+    src: local("Source Han Sans JP ExtraLight");
+}
+
+@font-face {
+    font-family: "ＭＳ Ｐゴシック";
+    font-weight: 300;
+    src: local("Source Han Sans JP Light");
+}
+
+@font-face {
+    font-family: "ＭＳ Ｐゴシック";
+    font-weight: 400;
+    src: local("Source Han Sans JP"), local("Source Han Sans JP Normal");
+}
+
+@font-face {
+    font-family: "ＭＳ Ｐゴシック";
+    font-weight: 500 600;
+    src: local("Source Han Sans JP Medium");
+}
+
+@font-face {
+    font-family: "ＭＳ Ｐゴシック";
+    font-weight: 700;
+    src: local("Source Han Sans JP Bold");
+}
+
+@font-face {
+    font-family: "ＭＳ Ｐゴシック";
+    font-weight: 800 900;
+    src: local("Source Han Sans JP Heavy");
+}
+
+@font-face {
+    font-family: "ＭＳ Ｐゴシック";
+    font-weight: 100;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin"), local("Inter Thin");
+}
+
+@font-face {
+    font-family: "ＭＳ Ｐゴシック";
+    font-weight: 200;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight"), local("Inter ExtraLight");
+}
+
+@font-face {
+    font-family: "ＭＳ Ｐゴシック";
+    font-weight: 300;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light"), local("Inter Light");
+}
+
+@font-face {
+    font-family: "ＭＳ Ｐゴシック";
+    font-weight: 400;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text"), local("Inter Regular"), local("Inter");
+}
+
+@font-face {
+    font-family: "ＭＳ Ｐゴシック";
+    font-weight: 500;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium"), local("Inter Medium");
+}
+
+@font-face {
+    font-family: "ＭＳ Ｐゴシック";
+    font-weight: 600;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold"), local("Inter SemiBold");
+}
+
+@font-face {
+    font-family: "ＭＳ Ｐゴシック";
+    font-weight: 700;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold"), local("Inter Bold");
+}
+
+@font-face {
+    font-family: "ＭＳ Ｐゴシック";
+    font-weight: 800;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold"), local("Inter ExtraBold");
+}
+
+@font-face {
+    font-family: "ＭＳ Ｐゴシック";
+    font-weight: 900;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black"), local("Inter Black");
+}
+
+@font-face {
+    font-family: "ＭＳ Ｐゴシック";
+    font-weight: 100;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin Italic"), local("Inter Thin Italic");
+}
+
+@font-face {
+    font-family: "ＭＳ Ｐゴシック";
+    font-weight: 200;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight Italic"), local("Inter ExtraLight Italic");
+}
+
+@font-face {
+    font-family: "ＭＳ Ｐゴシック";
+    font-weight: 300;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light Italic"), local("Inter Light Italic");
+}
+
+@font-face {
+    font-family: "ＭＳ Ｐゴシック";
+    font-weight: 400;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Italic"), local("Inter Regular Italic"), local("Inter Italic");
+}
+
+@font-face {
+    font-family: "ＭＳ Ｐゴシック";
+    font-weight: 500;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium Italic"), local("Inter Medium Italic");
+}
+
+@font-face {
+    font-family: "ＭＳ Ｐゴシック";
+    font-weight: 600;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold Italic"), local("Inter SemiBold Italic");
+}
+
+@font-face {
+    font-family: "ＭＳ Ｐゴシック";
+    font-weight: 700;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold Italic"), local("Inter Bold Italic");
+}
+
+@font-face {
+    font-family: "ＭＳ Ｐゴシック";
+    font-weight: 800;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold Italic"), local("Inter ExtraBold Italic");
+}
+
+@font-face {
+    font-family: "ＭＳ Ｐゴシック";
+    font-weight: 900;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black Italic"), local("Inter Black Italic");
+}
+
+@font-face {
     font-family: "MS UI Gothic";
     font-weight: 100 200;
     src: local("Source Han Sans JP ExtraLight");
@@ -1202,177 +1373,6 @@
 }
 
 @font-face {
-    font-family: "Original Yu Gothic";
-    font-weight: 100 200;
-    src: local("Source Han Sans JP ExtraLight");
-}
-
-@font-face {
-    font-family: "Original Yu Gothic";
-    font-weight: 300;
-    src: local("Source Han Sans JP Light");
-}
-
-@font-face {
-    font-family: "Original Yu Gothic";
-    font-weight: 400;
-    src: local("Source Han Sans JP"), local("Source Han Sans JP Normal");
-}
-
-@font-face {
-    font-family: "Original Yu Gothic";
-    font-weight: 500 600;
-    src: local("Source Han Sans JP Medium");
-}
-
-@font-face {
-    font-family: "Original Yu Gothic";
-    font-weight: 700;
-    src: local("Source Han Sans JP Bold");
-}
-
-@font-face {
-    font-family: "Original Yu Gothic";
-    font-weight: 800 900;
-    src: local("Source Han Sans JP Heavy");
-}
-
-@font-face {
-    font-family: "Original Yu Gothic";
-    font-weight: 100;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Thin"), local("Inter Thin");
-}
-
-@font-face {
-    font-family: "Original Yu Gothic";
-    font-weight: 200;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text ExtraLight"), local("Inter ExtraLight");
-}
-
-@font-face {
-    font-family: "Original Yu Gothic";
-    font-weight: 300;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Light"), local("Inter Light");
-}
-
-@font-face {
-    font-family: "Original Yu Gothic";
-    font-weight: 400;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text"), local("Inter Regular"), local("Inter");
-}
-
-@font-face {
-    font-family: "Original Yu Gothic";
-    font-weight: 500;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Medium"), local("Inter Medium");
-}
-
-@font-face {
-    font-family: "Original Yu Gothic";
-    font-weight: 600;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text SemiBold"), local("Inter SemiBold");
-}
-
-@font-face {
-    font-family: "Original Yu Gothic";
-    font-weight: 700;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Bold"), local("Inter Bold");
-}
-
-@font-face {
-    font-family: "Original Yu Gothic";
-    font-weight: 800;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text ExtraBold"), local("Inter ExtraBold");
-}
-
-@font-face {
-    font-family: "Original Yu Gothic";
-    font-weight: 900;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Black"), local("Inter Black");
-}
-
-@font-face {
-    font-family: "Original Yu Gothic";
-    font-weight: 100;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Thin Italic"), local("Inter Thin Italic");
-}
-
-@font-face {
-    font-family: "Original Yu Gothic";
-    font-weight: 200;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text ExtraLight Italic"), local("Inter ExtraLight Italic");
-}
-
-@font-face {
-    font-family: "Original Yu Gothic";
-    font-weight: 300;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Light Italic"), local("Inter Light Italic");
-}
-
-@font-face {
-    font-family: "Original Yu Gothic";
-    font-weight: 400;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Italic"), local("Inter Regular Italic"), local("Inter Italic");
-}
-
-@font-face {
-    font-family: "Original Yu Gothic";
-    font-weight: 500;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Medium Italic"), local("Inter Medium Italic");
-}
-
-@font-face {
-    font-family: "Original Yu Gothic";
-    font-weight: 600;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text SemiBold Italic"), local("Inter SemiBold Italic");
-}
-
-@font-face {
-    font-family: "Original Yu Gothic";
-    font-weight: 700;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Bold Italic"), local("Inter Bold Italic");
-}
-
-@font-face {
-    font-family: "Original Yu Gothic";
-    font-weight: 800;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text ExtraBold Italic"), local("Inter ExtraBold Italic");
-}
-
-@font-face {
-    font-family: "Original Yu Gothic";
-    font-weight: 900;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Black Italic"), local("Inter Black Italic");
-}
-
-@font-face {
     font-family: "Yu Gothic";
     font-weight: 100 200;
     src: local("Source Han Sans JP ExtraLight");
@@ -1537,519 +1537,6 @@
 
 @font-face {
     font-family: "Yu Gothic";
-    font-weight: 900;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Black Italic"), local("Inter Black Italic");
-}
-
-@font-face {
-    font-family: "Yu Gothic M";
-    font-weight: 100 200;
-    src: local("Source Han Sans JP ExtraLight");
-}
-
-@font-face {
-    font-family: "Yu Gothic M";
-    font-weight: 300;
-    src: local("Source Han Sans JP Light");
-}
-
-@font-face {
-    font-family: "Yu Gothic M";
-    font-weight: 400;
-    src: local("Source Han Sans JP"), local("Source Han Sans JP Normal");
-}
-
-@font-face {
-    font-family: "Yu Gothic M";
-    font-weight: 500 600;
-    src: local("Source Han Sans JP Medium");
-}
-
-@font-face {
-    font-family: "Yu Gothic M";
-    font-weight: 700;
-    src: local("Source Han Sans JP Bold");
-}
-
-@font-face {
-    font-family: "Yu Gothic M";
-    font-weight: 800 900;
-    src: local("Source Han Sans JP Heavy");
-}
-
-@font-face {
-    font-family: "Yu Gothic M";
-    font-weight: 100;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Thin"), local("Inter Thin");
-}
-
-@font-face {
-    font-family: "Yu Gothic M";
-    font-weight: 200;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text ExtraLight"), local("Inter ExtraLight");
-}
-
-@font-face {
-    font-family: "Yu Gothic M";
-    font-weight: 300;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Light"), local("Inter Light");
-}
-
-@font-face {
-    font-family: "Yu Gothic M";
-    font-weight: 400;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text"), local("Inter Regular"), local("Inter");
-}
-
-@font-face {
-    font-family: "Yu Gothic M";
-    font-weight: 500;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Medium"), local("Inter Medium");
-}
-
-@font-face {
-    font-family: "Yu Gothic M";
-    font-weight: 600;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text SemiBold"), local("Inter SemiBold");
-}
-
-@font-face {
-    font-family: "Yu Gothic M";
-    font-weight: 700;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Bold"), local("Inter Bold");
-}
-
-@font-face {
-    font-family: "Yu Gothic M";
-    font-weight: 800;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text ExtraBold"), local("Inter ExtraBold");
-}
-
-@font-face {
-    font-family: "Yu Gothic M";
-    font-weight: 900;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Black"), local("Inter Black");
-}
-
-@font-face {
-    font-family: "Yu Gothic M";
-    font-weight: 100;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Thin Italic"), local("Inter Thin Italic");
-}
-
-@font-face {
-    font-family: "Yu Gothic M";
-    font-weight: 200;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text ExtraLight Italic"), local("Inter ExtraLight Italic");
-}
-
-@font-face {
-    font-family: "Yu Gothic M";
-    font-weight: 300;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Light Italic"), local("Inter Light Italic");
-}
-
-@font-face {
-    font-family: "Yu Gothic M";
-    font-weight: 400;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Italic"), local("Inter Regular Italic"), local("Inter Italic");
-}
-
-@font-face {
-    font-family: "Yu Gothic M";
-    font-weight: 500;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Medium Italic"), local("Inter Medium Italic");
-}
-
-@font-face {
-    font-family: "Yu Gothic M";
-    font-weight: 600;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text SemiBold Italic"), local("Inter SemiBold Italic");
-}
-
-@font-face {
-    font-family: "Yu Gothic M";
-    font-weight: 700;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Bold Italic"), local("Inter Bold Italic");
-}
-
-@font-face {
-    font-family: "Yu Gothic M";
-    font-weight: 800;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text ExtraBold Italic"), local("Inter ExtraBold Italic");
-}
-
-@font-face {
-    font-family: "Yu Gothic M";
-    font-weight: 900;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Black Italic"), local("Inter Black Italic");
-}
-
-@font-face {
-    font-family: "Yu Gothic UI";
-    font-weight: 100 200;
-    src: local("Source Han Sans JP ExtraLight");
-}
-
-@font-face {
-    font-family: "Yu Gothic UI";
-    font-weight: 300;
-    src: local("Source Han Sans JP Light");
-}
-
-@font-face {
-    font-family: "Yu Gothic UI";
-    font-weight: 400;
-    src: local("Source Han Sans JP"), local("Source Han Sans JP Normal");
-}
-
-@font-face {
-    font-family: "Yu Gothic UI";
-    font-weight: 500 600;
-    src: local("Source Han Sans JP Medium");
-}
-
-@font-face {
-    font-family: "Yu Gothic UI";
-    font-weight: 700;
-    src: local("Source Han Sans JP Bold");
-}
-
-@font-face {
-    font-family: "Yu Gothic UI";
-    font-weight: 800 900;
-    src: local("Source Han Sans JP Heavy");
-}
-
-@font-face {
-    font-family: "Yu Gothic UI";
-    font-weight: 100;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Thin"), local("Inter Thin");
-}
-
-@font-face {
-    font-family: "Yu Gothic UI";
-    font-weight: 200;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text ExtraLight"), local("Inter ExtraLight");
-}
-
-@font-face {
-    font-family: "Yu Gothic UI";
-    font-weight: 300;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Light"), local("Inter Light");
-}
-
-@font-face {
-    font-family: "Yu Gothic UI";
-    font-weight: 400;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text"), local("Inter Regular"), local("Inter");
-}
-
-@font-face {
-    font-family: "Yu Gothic UI";
-    font-weight: 500;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Medium"), local("Inter Medium");
-}
-
-@font-face {
-    font-family: "Yu Gothic UI";
-    font-weight: 600;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text SemiBold"), local("Inter SemiBold");
-}
-
-@font-face {
-    font-family: "Yu Gothic UI";
-    font-weight: 700;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Bold"), local("Inter Bold");
-}
-
-@font-face {
-    font-family: "Yu Gothic UI";
-    font-weight: 800;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text ExtraBold"), local("Inter ExtraBold");
-}
-
-@font-face {
-    font-family: "Yu Gothic UI";
-    font-weight: 900;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Black"), local("Inter Black");
-}
-
-@font-face {
-    font-family: "Yu Gothic UI";
-    font-weight: 100;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Thin Italic"), local("Inter Thin Italic");
-}
-
-@font-face {
-    font-family: "Yu Gothic UI";
-    font-weight: 200;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text ExtraLight Italic"), local("Inter ExtraLight Italic");
-}
-
-@font-face {
-    font-family: "Yu Gothic UI";
-    font-weight: 300;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Light Italic"), local("Inter Light Italic");
-}
-
-@font-face {
-    font-family: "Yu Gothic UI";
-    font-weight: 400;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Italic"), local("Inter Regular Italic"), local("Inter Italic");
-}
-
-@font-face {
-    font-family: "Yu Gothic UI";
-    font-weight: 500;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Medium Italic"), local("Inter Medium Italic");
-}
-
-@font-face {
-    font-family: "Yu Gothic UI";
-    font-weight: 600;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text SemiBold Italic"), local("Inter SemiBold Italic");
-}
-
-@font-face {
-    font-family: "Yu Gothic UI";
-    font-weight: 700;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Bold Italic"), local("Inter Bold Italic");
-}
-
-@font-face {
-    font-family: "Yu Gothic UI";
-    font-weight: 800;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text ExtraBold Italic"), local("Inter ExtraBold Italic");
-}
-
-@font-face {
-    font-family: "Yu Gothic UI";
-    font-weight: 900;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Black Italic"), local("Inter Black Italic");
-}
-
-@font-face {
-    font-family: "Yu Gothic-M";
-    font-weight: 100 200;
-    src: local("Source Han Sans JP ExtraLight");
-}
-
-@font-face {
-    font-family: "Yu Gothic-M";
-    font-weight: 300;
-    src: local("Source Han Sans JP Light");
-}
-
-@font-face {
-    font-family: "Yu Gothic-M";
-    font-weight: 400;
-    src: local("Source Han Sans JP"), local("Source Han Sans JP Normal");
-}
-
-@font-face {
-    font-family: "Yu Gothic-M";
-    font-weight: 500 600;
-    src: local("Source Han Sans JP Medium");
-}
-
-@font-face {
-    font-family: "Yu Gothic-M";
-    font-weight: 700;
-    src: local("Source Han Sans JP Bold");
-}
-
-@font-face {
-    font-family: "Yu Gothic-M";
-    font-weight: 800 900;
-    src: local("Source Han Sans JP Heavy");
-}
-
-@font-face {
-    font-family: "Yu Gothic-M";
-    font-weight: 100;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Thin"), local("Inter Thin");
-}
-
-@font-face {
-    font-family: "Yu Gothic-M";
-    font-weight: 200;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text ExtraLight"), local("Inter ExtraLight");
-}
-
-@font-face {
-    font-family: "Yu Gothic-M";
-    font-weight: 300;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Light"), local("Inter Light");
-}
-
-@font-face {
-    font-family: "Yu Gothic-M";
-    font-weight: 400;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text"), local("Inter Regular"), local("Inter");
-}
-
-@font-face {
-    font-family: "Yu Gothic-M";
-    font-weight: 500;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Medium"), local("Inter Medium");
-}
-
-@font-face {
-    font-family: "Yu Gothic-M";
-    font-weight: 600;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text SemiBold"), local("Inter SemiBold");
-}
-
-@font-face {
-    font-family: "Yu Gothic-M";
-    font-weight: 700;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Bold"), local("Inter Bold");
-}
-
-@font-face {
-    font-family: "Yu Gothic-M";
-    font-weight: 800;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text ExtraBold"), local("Inter ExtraBold");
-}
-
-@font-face {
-    font-family: "Yu Gothic-M";
-    font-weight: 900;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Black"), local("Inter Black");
-}
-
-@font-face {
-    font-family: "Yu Gothic-M";
-    font-weight: 100;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Thin Italic"), local("Inter Thin Italic");
-}
-
-@font-face {
-    font-family: "Yu Gothic-M";
-    font-weight: 200;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text ExtraLight Italic"), local("Inter ExtraLight Italic");
-}
-
-@font-face {
-    font-family: "Yu Gothic-M";
-    font-weight: 300;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Light Italic"), local("Inter Light Italic");
-}
-
-@font-face {
-    font-family: "Yu Gothic-M";
-    font-weight: 400;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Italic"), local("Inter Regular Italic"), local("Inter Italic");
-}
-
-@font-face {
-    font-family: "Yu Gothic-M";
-    font-weight: 500;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Medium Italic"), local("Inter Medium Italic");
-}
-
-@font-face {
-    font-family: "Yu Gothic-M";
-    font-weight: 600;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text SemiBold Italic"), local("Inter SemiBold Italic");
-}
-
-@font-face {
-    font-family: "Yu Gothic-M";
-    font-weight: 700;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Bold Italic"), local("Inter Bold Italic");
-}
-
-@font-face {
-    font-family: "Yu Gothic-M";
-    font-weight: 800;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text ExtraBold Italic"), local("Inter ExtraBold Italic");
-}
-
-@font-face {
-    font-family: "Yu Gothic-M";
     font-weight: 900;
     font-style: italic;
     unicode-range: U+0021-007F;
@@ -2228,6 +1715,2571 @@
 }
 
 @font-face {
+    font-family: "游ゴシック";
+    font-weight: 100 200;
+    src: local("Source Han Sans JP ExtraLight");
+}
+
+@font-face {
+    font-family: "游ゴシック";
+    font-weight: 300;
+    src: local("Source Han Sans JP Light");
+}
+
+@font-face {
+    font-family: "游ゴシック";
+    font-weight: 400;
+    src: local("Source Han Sans JP"), local("Source Han Sans JP Normal");
+}
+
+@font-face {
+    font-family: "游ゴシック";
+    font-weight: 500 600;
+    src: local("Source Han Sans JP Medium");
+}
+
+@font-face {
+    font-family: "游ゴシック";
+    font-weight: 700;
+    src: local("Source Han Sans JP Bold");
+}
+
+@font-face {
+    font-family: "游ゴシック";
+    font-weight: 800 900;
+    src: local("Source Han Sans JP Heavy");
+}
+
+@font-face {
+    font-family: "游ゴシック";
+    font-weight: 100;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin"), local("Inter Thin");
+}
+
+@font-face {
+    font-family: "游ゴシック";
+    font-weight: 200;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight"), local("Inter ExtraLight");
+}
+
+@font-face {
+    font-family: "游ゴシック";
+    font-weight: 300;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light"), local("Inter Light");
+}
+
+@font-face {
+    font-family: "游ゴシック";
+    font-weight: 400;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text"), local("Inter Regular"), local("Inter");
+}
+
+@font-face {
+    font-family: "游ゴシック";
+    font-weight: 500;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium"), local("Inter Medium");
+}
+
+@font-face {
+    font-family: "游ゴシック";
+    font-weight: 600;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold"), local("Inter SemiBold");
+}
+
+@font-face {
+    font-family: "游ゴシック";
+    font-weight: 700;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold"), local("Inter Bold");
+}
+
+@font-face {
+    font-family: "游ゴシック";
+    font-weight: 800;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold"), local("Inter ExtraBold");
+}
+
+@font-face {
+    font-family: "游ゴシック";
+    font-weight: 900;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black"), local("Inter Black");
+}
+
+@font-face {
+    font-family: "游ゴシック";
+    font-weight: 100;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin Italic"), local("Inter Thin Italic");
+}
+
+@font-face {
+    font-family: "游ゴシック";
+    font-weight: 200;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight Italic"), local("Inter ExtraLight Italic");
+}
+
+@font-face {
+    font-family: "游ゴシック";
+    font-weight: 300;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light Italic"), local("Inter Light Italic");
+}
+
+@font-face {
+    font-family: "游ゴシック";
+    font-weight: 400;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Italic"), local("Inter Regular Italic"), local("Inter Italic");
+}
+
+@font-face {
+    font-family: "游ゴシック";
+    font-weight: 500;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium Italic"), local("Inter Medium Italic");
+}
+
+@font-face {
+    font-family: "游ゴシック";
+    font-weight: 600;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold Italic"), local("Inter SemiBold Italic");
+}
+
+@font-face {
+    font-family: "游ゴシック";
+    font-weight: 700;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold Italic"), local("Inter Bold Italic");
+}
+
+@font-face {
+    font-family: "游ゴシック";
+    font-weight: 800;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold Italic"), local("Inter ExtraBold Italic");
+}
+
+@font-face {
+    font-family: "游ゴシック";
+    font-weight: 900;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black Italic"), local("Inter Black Italic");
+}
+
+@font-face {
+    font-family: "Original Yu Gothic";
+    font-weight: 100 200;
+    src: local("Source Han Sans JP ExtraLight");
+}
+
+@font-face {
+    font-family: "Original Yu Gothic";
+    font-weight: 300;
+    src: local("Source Han Sans JP Light");
+}
+
+@font-face {
+    font-family: "Original Yu Gothic";
+    font-weight: 400;
+    src: local("Source Han Sans JP"), local("Source Han Sans JP Normal");
+}
+
+@font-face {
+    font-family: "Original Yu Gothic";
+    font-weight: 500 600;
+    src: local("Source Han Sans JP Medium");
+}
+
+@font-face {
+    font-family: "Original Yu Gothic";
+    font-weight: 700;
+    src: local("Source Han Sans JP Bold");
+}
+
+@font-face {
+    font-family: "Original Yu Gothic";
+    font-weight: 800 900;
+    src: local("Source Han Sans JP Heavy");
+}
+
+@font-face {
+    font-family: "Original Yu Gothic";
+    font-weight: 100;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin"), local("Inter Thin");
+}
+
+@font-face {
+    font-family: "Original Yu Gothic";
+    font-weight: 200;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight"), local("Inter ExtraLight");
+}
+
+@font-face {
+    font-family: "Original Yu Gothic";
+    font-weight: 300;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light"), local("Inter Light");
+}
+
+@font-face {
+    font-family: "Original Yu Gothic";
+    font-weight: 400;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text"), local("Inter Regular"), local("Inter");
+}
+
+@font-face {
+    font-family: "Original Yu Gothic";
+    font-weight: 500;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium"), local("Inter Medium");
+}
+
+@font-face {
+    font-family: "Original Yu Gothic";
+    font-weight: 600;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold"), local("Inter SemiBold");
+}
+
+@font-face {
+    font-family: "Original Yu Gothic";
+    font-weight: 700;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold"), local("Inter Bold");
+}
+
+@font-face {
+    font-family: "Original Yu Gothic";
+    font-weight: 800;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold"), local("Inter ExtraBold");
+}
+
+@font-face {
+    font-family: "Original Yu Gothic";
+    font-weight: 900;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black"), local("Inter Black");
+}
+
+@font-face {
+    font-family: "Original Yu Gothic";
+    font-weight: 100;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin Italic"), local("Inter Thin Italic");
+}
+
+@font-face {
+    font-family: "Original Yu Gothic";
+    font-weight: 200;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight Italic"), local("Inter ExtraLight Italic");
+}
+
+@font-face {
+    font-family: "Original Yu Gothic";
+    font-weight: 300;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light Italic"), local("Inter Light Italic");
+}
+
+@font-face {
+    font-family: "Original Yu Gothic";
+    font-weight: 400;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Italic"), local("Inter Regular Italic"), local("Inter Italic");
+}
+
+@font-face {
+    font-family: "Original Yu Gothic";
+    font-weight: 500;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium Italic"), local("Inter Medium Italic");
+}
+
+@font-face {
+    font-family: "Original Yu Gothic";
+    font-weight: 600;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold Italic"), local("Inter SemiBold Italic");
+}
+
+@font-face {
+    font-family: "Original Yu Gothic";
+    font-weight: 700;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold Italic"), local("Inter Bold Italic");
+}
+
+@font-face {
+    font-family: "Original Yu Gothic";
+    font-weight: 800;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold Italic"), local("Inter ExtraBold Italic");
+}
+
+@font-face {
+    font-family: "Original Yu Gothic";
+    font-weight: 900;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black Italic"), local("Inter Black Italic");
+}
+
+@font-face {
+    font-family: "CustomYuGothicM";
+    font-weight: 100 200;
+    src: local("Source Han Sans JP ExtraLight");
+}
+
+@font-face {
+    font-family: "CustomYuGothicM";
+    font-weight: 300;
+    src: local("Source Han Sans JP Light");
+}
+
+@font-face {
+    font-family: "CustomYuGothicM";
+    font-weight: 400;
+    src: local("Source Han Sans JP"), local("Source Han Sans JP Normal");
+}
+
+@font-face {
+    font-family: "CustomYuGothicM";
+    font-weight: 500 600;
+    src: local("Source Han Sans JP Medium");
+}
+
+@font-face {
+    font-family: "CustomYuGothicM";
+    font-weight: 700;
+    src: local("Source Han Sans JP Bold");
+}
+
+@font-face {
+    font-family: "CustomYuGothicM";
+    font-weight: 800 900;
+    src: local("Source Han Sans JP Heavy");
+}
+
+@font-face {
+    font-family: "CustomYuGothicM";
+    font-weight: 100;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin"), local("Inter Thin");
+}
+
+@font-face {
+    font-family: "CustomYuGothicM";
+    font-weight: 200;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight"), local("Inter ExtraLight");
+}
+
+@font-face {
+    font-family: "CustomYuGothicM";
+    font-weight: 300;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light"), local("Inter Light");
+}
+
+@font-face {
+    font-family: "CustomYuGothicM";
+    font-weight: 400;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text"), local("Inter Regular"), local("Inter");
+}
+
+@font-face {
+    font-family: "CustomYuGothicM";
+    font-weight: 500;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium"), local("Inter Medium");
+}
+
+@font-face {
+    font-family: "CustomYuGothicM";
+    font-weight: 600;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold"), local("Inter SemiBold");
+}
+
+@font-face {
+    font-family: "CustomYuGothicM";
+    font-weight: 700;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold"), local("Inter Bold");
+}
+
+@font-face {
+    font-family: "CustomYuGothicM";
+    font-weight: 800;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold"), local("Inter ExtraBold");
+}
+
+@font-face {
+    font-family: "CustomYuGothicM";
+    font-weight: 900;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black"), local("Inter Black");
+}
+
+@font-face {
+    font-family: "CustomYuGothicM";
+    font-weight: 100;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin Italic"), local("Inter Thin Italic");
+}
+
+@font-face {
+    font-family: "CustomYuGothicM";
+    font-weight: 200;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight Italic"), local("Inter ExtraLight Italic");
+}
+
+@font-face {
+    font-family: "CustomYuGothicM";
+    font-weight: 300;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light Italic"), local("Inter Light Italic");
+}
+
+@font-face {
+    font-family: "CustomYuGothicM";
+    font-weight: 400;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Italic"), local("Inter Regular Italic"), local("Inter Italic");
+}
+
+@font-face {
+    font-family: "CustomYuGothicM";
+    font-weight: 500;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium Italic"), local("Inter Medium Italic");
+}
+
+@font-face {
+    font-family: "CustomYuGothicM";
+    font-weight: 600;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold Italic"), local("Inter SemiBold Italic");
+}
+
+@font-face {
+    font-family: "CustomYuGothicM";
+    font-weight: 700;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold Italic"), local("Inter Bold Italic");
+}
+
+@font-face {
+    font-family: "CustomYuGothicM";
+    font-weight: 800;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold Italic"), local("Inter ExtraBold Italic");
+}
+
+@font-face {
+    font-family: "CustomYuGothicM";
+    font-weight: 900;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black Italic"), local("Inter Black Italic");
+}
+
+@font-face {
+    font-family: "MyYuGothicM";
+    font-weight: 100 200;
+    src: local("Source Han Sans JP ExtraLight");
+}
+
+@font-face {
+    font-family: "MyYuGothicM";
+    font-weight: 300;
+    src: local("Source Han Sans JP Light");
+}
+
+@font-face {
+    font-family: "MyYuGothicM";
+    font-weight: 400;
+    src: local("Source Han Sans JP"), local("Source Han Sans JP Normal");
+}
+
+@font-face {
+    font-family: "MyYuGothicM";
+    font-weight: 500 600;
+    src: local("Source Han Sans JP Medium");
+}
+
+@font-face {
+    font-family: "MyYuGothicM";
+    font-weight: 700;
+    src: local("Source Han Sans JP Bold");
+}
+
+@font-face {
+    font-family: "MyYuGothicM";
+    font-weight: 800 900;
+    src: local("Source Han Sans JP Heavy");
+}
+
+@font-face {
+    font-family: "MyYuGothicM";
+    font-weight: 100;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin"), local("Inter Thin");
+}
+
+@font-face {
+    font-family: "MyYuGothicM";
+    font-weight: 200;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight"), local("Inter ExtraLight");
+}
+
+@font-face {
+    font-family: "MyYuGothicM";
+    font-weight: 300;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light"), local("Inter Light");
+}
+
+@font-face {
+    font-family: "MyYuGothicM";
+    font-weight: 400;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text"), local("Inter Regular"), local("Inter");
+}
+
+@font-face {
+    font-family: "MyYuGothicM";
+    font-weight: 500;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium"), local("Inter Medium");
+}
+
+@font-face {
+    font-family: "MyYuGothicM";
+    font-weight: 600;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold"), local("Inter SemiBold");
+}
+
+@font-face {
+    font-family: "MyYuGothicM";
+    font-weight: 700;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold"), local("Inter Bold");
+}
+
+@font-face {
+    font-family: "MyYuGothicM";
+    font-weight: 800;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold"), local("Inter ExtraBold");
+}
+
+@font-face {
+    font-family: "MyYuGothicM";
+    font-weight: 900;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black"), local("Inter Black");
+}
+
+@font-face {
+    font-family: "MyYuGothicM";
+    font-weight: 100;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin Italic"), local("Inter Thin Italic");
+}
+
+@font-face {
+    font-family: "MyYuGothicM";
+    font-weight: 200;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight Italic"), local("Inter ExtraLight Italic");
+}
+
+@font-face {
+    font-family: "MyYuGothicM";
+    font-weight: 300;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light Italic"), local("Inter Light Italic");
+}
+
+@font-face {
+    font-family: "MyYuGothicM";
+    font-weight: 400;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Italic"), local("Inter Regular Italic"), local("Inter Italic");
+}
+
+@font-face {
+    font-family: "MyYuGothicM";
+    font-weight: 500;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium Italic"), local("Inter Medium Italic");
+}
+
+@font-face {
+    font-family: "MyYuGothicM";
+    font-weight: 600;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold Italic"), local("Inter SemiBold Italic");
+}
+
+@font-face {
+    font-family: "MyYuGothicM";
+    font-weight: 700;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold Italic"), local("Inter Bold Italic");
+}
+
+@font-face {
+    font-family: "MyYuGothicM";
+    font-weight: 800;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold Italic"), local("Inter ExtraBold Italic");
+}
+
+@font-face {
+    font-family: "MyYuGothicM";
+    font-weight: 900;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black Italic"), local("Inter Black Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic Light";
+    font-weight: 100 200;
+    src: local("Source Han Sans JP ExtraLight");
+}
+
+@font-face {
+    font-family: "Yu Gothic Light";
+    font-weight: 300;
+    src: local("Source Han Sans JP Light");
+}
+
+@font-face {
+    font-family: "Yu Gothic Light";
+    font-weight: 400;
+    src: local("Source Han Sans JP"), local("Source Han Sans JP Normal");
+}
+
+@font-face {
+    font-family: "Yu Gothic Light";
+    font-weight: 500 600;
+    src: local("Source Han Sans JP Medium");
+}
+
+@font-face {
+    font-family: "Yu Gothic Light";
+    font-weight: 700;
+    src: local("Source Han Sans JP Bold");
+}
+
+@font-face {
+    font-family: "Yu Gothic Light";
+    font-weight: 800 900;
+    src: local("Source Han Sans JP Heavy");
+}
+
+@font-face {
+    font-family: "Yu Gothic Light";
+    font-weight: 100;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin"), local("Inter Thin");
+}
+
+@font-face {
+    font-family: "Yu Gothic Light";
+    font-weight: 200;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight"), local("Inter ExtraLight");
+}
+
+@font-face {
+    font-family: "Yu Gothic Light";
+    font-weight: 300;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light"), local("Inter Light");
+}
+
+@font-face {
+    font-family: "Yu Gothic Light";
+    font-weight: 400;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text"), local("Inter Regular"), local("Inter");
+}
+
+@font-face {
+    font-family: "Yu Gothic Light";
+    font-weight: 500;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium"), local("Inter Medium");
+}
+
+@font-face {
+    font-family: "Yu Gothic Light";
+    font-weight: 600;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold"), local("Inter SemiBold");
+}
+
+@font-face {
+    font-family: "Yu Gothic Light";
+    font-weight: 700;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold"), local("Inter Bold");
+}
+
+@font-face {
+    font-family: "Yu Gothic Light";
+    font-weight: 800;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold"), local("Inter ExtraBold");
+}
+
+@font-face {
+    font-family: "Yu Gothic Light";
+    font-weight: 900;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black"), local("Inter Black");
+}
+
+@font-face {
+    font-family: "Yu Gothic Light";
+    font-weight: 100;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin Italic"), local("Inter Thin Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic Light";
+    font-weight: 200;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight Italic"), local("Inter ExtraLight Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic Light";
+    font-weight: 300;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light Italic"), local("Inter Light Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic Light";
+    font-weight: 400;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Italic"), local("Inter Regular Italic"), local("Inter Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic Light";
+    font-weight: 500;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium Italic"), local("Inter Medium Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic Light";
+    font-weight: 600;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold Italic"), local("Inter SemiBold Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic Light";
+    font-weight: 700;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold Italic"), local("Inter Bold Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic Light";
+    font-weight: 800;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold Italic"), local("Inter ExtraBold Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic Light";
+    font-weight: 900;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black Italic"), local("Inter Black Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Light";
+    font-weight: 100 200;
+    src: local("Source Han Sans JP ExtraLight");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Light";
+    font-weight: 300;
+    src: local("Source Han Sans JP Light");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Light";
+    font-weight: 400;
+    src: local("Source Han Sans JP"), local("Source Han Sans JP Normal");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Light";
+    font-weight: 500 600;
+    src: local("Source Han Sans JP Medium");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Light";
+    font-weight: 700;
+    src: local("Source Han Sans JP Bold");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Light";
+    font-weight: 800 900;
+    src: local("Source Han Sans JP Heavy");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Light";
+    font-weight: 100;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin"), local("Inter Thin");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Light";
+    font-weight: 200;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight"), local("Inter ExtraLight");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Light";
+    font-weight: 300;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light"), local("Inter Light");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Light";
+    font-weight: 400;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text"), local("Inter Regular"), local("Inter");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Light";
+    font-weight: 500;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium"), local("Inter Medium");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Light";
+    font-weight: 600;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold"), local("Inter SemiBold");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Light";
+    font-weight: 700;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold"), local("Inter Bold");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Light";
+    font-weight: 800;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold"), local("Inter ExtraBold");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Light";
+    font-weight: 900;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black"), local("Inter Black");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Light";
+    font-weight: 100;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin Italic"), local("Inter Thin Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Light";
+    font-weight: 200;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight Italic"), local("Inter ExtraLight Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Light";
+    font-weight: 300;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light Italic"), local("Inter Light Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Light";
+    font-weight: 400;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Italic"), local("Inter Regular Italic"), local("Inter Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Light";
+    font-weight: 500;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium Italic"), local("Inter Medium Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Light";
+    font-weight: 600;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold Italic"), local("Inter SemiBold Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Light";
+    font-weight: 700;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold Italic"), local("Inter Bold Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Light";
+    font-weight: 800;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold Italic"), local("Inter ExtraBold Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Light";
+    font-weight: 900;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black Italic"), local("Inter Black Italic");
+}
+
+@font-face {
+    font-family: "YuGothic Light";
+    font-weight: 100 200;
+    src: local("Source Han Sans JP ExtraLight");
+}
+
+@font-face {
+    font-family: "YuGothic Light";
+    font-weight: 300;
+    src: local("Source Han Sans JP Light");
+}
+
+@font-face {
+    font-family: "YuGothic Light";
+    font-weight: 400;
+    src: local("Source Han Sans JP"), local("Source Han Sans JP Normal");
+}
+
+@font-face {
+    font-family: "YuGothic Light";
+    font-weight: 500 600;
+    src: local("Source Han Sans JP Medium");
+}
+
+@font-face {
+    font-family: "YuGothic Light";
+    font-weight: 700;
+    src: local("Source Han Sans JP Bold");
+}
+
+@font-face {
+    font-family: "YuGothic Light";
+    font-weight: 800 900;
+    src: local("Source Han Sans JP Heavy");
+}
+
+@font-face {
+    font-family: "YuGothic Light";
+    font-weight: 100;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin"), local("Inter Thin");
+}
+
+@font-face {
+    font-family: "YuGothic Light";
+    font-weight: 200;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight"), local("Inter ExtraLight");
+}
+
+@font-face {
+    font-family: "YuGothic Light";
+    font-weight: 300;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light"), local("Inter Light");
+}
+
+@font-face {
+    font-family: "YuGothic Light";
+    font-weight: 400;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text"), local("Inter Regular"), local("Inter");
+}
+
+@font-face {
+    font-family: "YuGothic Light";
+    font-weight: 500;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium"), local("Inter Medium");
+}
+
+@font-face {
+    font-family: "YuGothic Light";
+    font-weight: 600;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold"), local("Inter SemiBold");
+}
+
+@font-face {
+    font-family: "YuGothic Light";
+    font-weight: 700;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold"), local("Inter Bold");
+}
+
+@font-face {
+    font-family: "YuGothic Light";
+    font-weight: 800;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold"), local("Inter ExtraBold");
+}
+
+@font-face {
+    font-family: "YuGothic Light";
+    font-weight: 900;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black"), local("Inter Black");
+}
+
+@font-face {
+    font-family: "YuGothic Light";
+    font-weight: 100;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin Italic"), local("Inter Thin Italic");
+}
+
+@font-face {
+    font-family: "YuGothic Light";
+    font-weight: 200;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight Italic"), local("Inter ExtraLight Italic");
+}
+
+@font-face {
+    font-family: "YuGothic Light";
+    font-weight: 300;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light Italic"), local("Inter Light Italic");
+}
+
+@font-face {
+    font-family: "YuGothic Light";
+    font-weight: 400;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Italic"), local("Inter Regular Italic"), local("Inter Italic");
+}
+
+@font-face {
+    font-family: "YuGothic Light";
+    font-weight: 500;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium Italic"), local("Inter Medium Italic");
+}
+
+@font-face {
+    font-family: "YuGothic Light";
+    font-weight: 600;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold Italic"), local("Inter SemiBold Italic");
+}
+
+@font-face {
+    font-family: "YuGothic Light";
+    font-weight: 700;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold Italic"), local("Inter Bold Italic");
+}
+
+@font-face {
+    font-family: "YuGothic Light";
+    font-weight: 800;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold Italic"), local("Inter ExtraBold Italic");
+}
+
+@font-face {
+    font-family: "YuGothic Light";
+    font-weight: 900;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black Italic"), local("Inter Black Italic");
+}
+
+@font-face {
+    font-family: "YuGothic-Light";
+    font-weight: 100 200;
+    src: local("Source Han Sans JP ExtraLight");
+}
+
+@font-face {
+    font-family: "YuGothic-Light";
+    font-weight: 300;
+    src: local("Source Han Sans JP Light");
+}
+
+@font-face {
+    font-family: "YuGothic-Light";
+    font-weight: 400;
+    src: local("Source Han Sans JP"), local("Source Han Sans JP Normal");
+}
+
+@font-face {
+    font-family: "YuGothic-Light";
+    font-weight: 500 600;
+    src: local("Source Han Sans JP Medium");
+}
+
+@font-face {
+    font-family: "YuGothic-Light";
+    font-weight: 700;
+    src: local("Source Han Sans JP Bold");
+}
+
+@font-face {
+    font-family: "YuGothic-Light";
+    font-weight: 800 900;
+    src: local("Source Han Sans JP Heavy");
+}
+
+@font-face {
+    font-family: "YuGothic-Light";
+    font-weight: 100;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin"), local("Inter Thin");
+}
+
+@font-face {
+    font-family: "YuGothic-Light";
+    font-weight: 200;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight"), local("Inter ExtraLight");
+}
+
+@font-face {
+    font-family: "YuGothic-Light";
+    font-weight: 300;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light"), local("Inter Light");
+}
+
+@font-face {
+    font-family: "YuGothic-Light";
+    font-weight: 400;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text"), local("Inter Regular"), local("Inter");
+}
+
+@font-face {
+    font-family: "YuGothic-Light";
+    font-weight: 500;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium"), local("Inter Medium");
+}
+
+@font-face {
+    font-family: "YuGothic-Light";
+    font-weight: 600;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold"), local("Inter SemiBold");
+}
+
+@font-face {
+    font-family: "YuGothic-Light";
+    font-weight: 700;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold"), local("Inter Bold");
+}
+
+@font-face {
+    font-family: "YuGothic-Light";
+    font-weight: 800;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold"), local("Inter ExtraBold");
+}
+
+@font-face {
+    font-family: "YuGothic-Light";
+    font-weight: 900;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black"), local("Inter Black");
+}
+
+@font-face {
+    font-family: "YuGothic-Light";
+    font-weight: 100;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin Italic"), local("Inter Thin Italic");
+}
+
+@font-face {
+    font-family: "YuGothic-Light";
+    font-weight: 200;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight Italic"), local("Inter ExtraLight Italic");
+}
+
+@font-face {
+    font-family: "YuGothic-Light";
+    font-weight: 300;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light Italic"), local("Inter Light Italic");
+}
+
+@font-face {
+    font-family: "YuGothic-Light";
+    font-weight: 400;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Italic"), local("Inter Regular Italic"), local("Inter Italic");
+}
+
+@font-face {
+    font-family: "YuGothic-Light";
+    font-weight: 500;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium Italic"), local("Inter Medium Italic");
+}
+
+@font-face {
+    font-family: "YuGothic-Light";
+    font-weight: 600;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold Italic"), local("Inter SemiBold Italic");
+}
+
+@font-face {
+    font-family: "YuGothic-Light";
+    font-weight: 700;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold Italic"), local("Inter Bold Italic");
+}
+
+@font-face {
+    font-family: "YuGothic-Light";
+    font-weight: 800;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold Italic"), local("Inter ExtraBold Italic");
+}
+
+@font-face {
+    font-family: "YuGothic-Light";
+    font-weight: 900;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black Italic"), local("Inter Black Italic");
+}
+
+@font-face {
+    font-family: "游ゴシック Light";
+    font-weight: 100 200;
+    src: local("Source Han Sans JP ExtraLight");
+}
+
+@font-face {
+    font-family: "游ゴシック Light";
+    font-weight: 300;
+    src: local("Source Han Sans JP Light");
+}
+
+@font-face {
+    font-family: "游ゴシック Light";
+    font-weight: 400;
+    src: local("Source Han Sans JP"), local("Source Han Sans JP Normal");
+}
+
+@font-face {
+    font-family: "游ゴシック Light";
+    font-weight: 500 600;
+    src: local("Source Han Sans JP Medium");
+}
+
+@font-face {
+    font-family: "游ゴシック Light";
+    font-weight: 700;
+    src: local("Source Han Sans JP Bold");
+}
+
+@font-face {
+    font-family: "游ゴシック Light";
+    font-weight: 800 900;
+    src: local("Source Han Sans JP Heavy");
+}
+
+@font-face {
+    font-family: "游ゴシック Light";
+    font-weight: 100;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin"), local("Inter Thin");
+}
+
+@font-face {
+    font-family: "游ゴシック Light";
+    font-weight: 200;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight"), local("Inter ExtraLight");
+}
+
+@font-face {
+    font-family: "游ゴシック Light";
+    font-weight: 300;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light"), local("Inter Light");
+}
+
+@font-face {
+    font-family: "游ゴシック Light";
+    font-weight: 400;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text"), local("Inter Regular"), local("Inter");
+}
+
+@font-face {
+    font-family: "游ゴシック Light";
+    font-weight: 500;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium"), local("Inter Medium");
+}
+
+@font-face {
+    font-family: "游ゴシック Light";
+    font-weight: 600;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold"), local("Inter SemiBold");
+}
+
+@font-face {
+    font-family: "游ゴシック Light";
+    font-weight: 700;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold"), local("Inter Bold");
+}
+
+@font-face {
+    font-family: "游ゴシック Light";
+    font-weight: 800;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold"), local("Inter ExtraBold");
+}
+
+@font-face {
+    font-family: "游ゴシック Light";
+    font-weight: 900;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black"), local("Inter Black");
+}
+
+@font-face {
+    font-family: "游ゴシック Light";
+    font-weight: 100;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin Italic"), local("Inter Thin Italic");
+}
+
+@font-face {
+    font-family: "游ゴシック Light";
+    font-weight: 200;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight Italic"), local("Inter ExtraLight Italic");
+}
+
+@font-face {
+    font-family: "游ゴシック Light";
+    font-weight: 300;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light Italic"), local("Inter Light Italic");
+}
+
+@font-face {
+    font-family: "游ゴシック Light";
+    font-weight: 400;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Italic"), local("Inter Regular Italic"), local("Inter Italic");
+}
+
+@font-face {
+    font-family: "游ゴシック Light";
+    font-weight: 500;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium Italic"), local("Inter Medium Italic");
+}
+
+@font-face {
+    font-family: "游ゴシック Light";
+    font-weight: 600;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold Italic"), local("Inter SemiBold Italic");
+}
+
+@font-face {
+    font-family: "游ゴシック Light";
+    font-weight: 700;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold Italic"), local("Inter Bold Italic");
+}
+
+@font-face {
+    font-family: "游ゴシック Light";
+    font-weight: 800;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold Italic"), local("Inter ExtraBold Italic");
+}
+
+@font-face {
+    font-family: "游ゴシック Light";
+    font-weight: 900;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black Italic"), local("Inter Black Italic");
+}
+
+@font-face {
+    font-family: "游ゴシック-Light";
+    font-weight: 100 200;
+    src: local("Source Han Sans JP ExtraLight");
+}
+
+@font-face {
+    font-family: "游ゴシック-Light";
+    font-weight: 300;
+    src: local("Source Han Sans JP Light");
+}
+
+@font-face {
+    font-family: "游ゴシック-Light";
+    font-weight: 400;
+    src: local("Source Han Sans JP"), local("Source Han Sans JP Normal");
+}
+
+@font-face {
+    font-family: "游ゴシック-Light";
+    font-weight: 500 600;
+    src: local("Source Han Sans JP Medium");
+}
+
+@font-face {
+    font-family: "游ゴシック-Light";
+    font-weight: 700;
+    src: local("Source Han Sans JP Bold");
+}
+
+@font-face {
+    font-family: "游ゴシック-Light";
+    font-weight: 800 900;
+    src: local("Source Han Sans JP Heavy");
+}
+
+@font-face {
+    font-family: "游ゴシック-Light";
+    font-weight: 100;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin"), local("Inter Thin");
+}
+
+@font-face {
+    font-family: "游ゴシック-Light";
+    font-weight: 200;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight"), local("Inter ExtraLight");
+}
+
+@font-face {
+    font-family: "游ゴシック-Light";
+    font-weight: 300;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light"), local("Inter Light");
+}
+
+@font-face {
+    font-family: "游ゴシック-Light";
+    font-weight: 400;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text"), local("Inter Regular"), local("Inter");
+}
+
+@font-face {
+    font-family: "游ゴシック-Light";
+    font-weight: 500;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium"), local("Inter Medium");
+}
+
+@font-face {
+    font-family: "游ゴシック-Light";
+    font-weight: 600;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold"), local("Inter SemiBold");
+}
+
+@font-face {
+    font-family: "游ゴシック-Light";
+    font-weight: 700;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold"), local("Inter Bold");
+}
+
+@font-face {
+    font-family: "游ゴシック-Light";
+    font-weight: 800;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold"), local("Inter ExtraBold");
+}
+
+@font-face {
+    font-family: "游ゴシック-Light";
+    font-weight: 900;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black"), local("Inter Black");
+}
+
+@font-face {
+    font-family: "游ゴシック-Light";
+    font-weight: 100;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin Italic"), local("Inter Thin Italic");
+}
+
+@font-face {
+    font-family: "游ゴシック-Light";
+    font-weight: 200;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight Italic"), local("Inter ExtraLight Italic");
+}
+
+@font-face {
+    font-family: "游ゴシック-Light";
+    font-weight: 300;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light Italic"), local("Inter Light Italic");
+}
+
+@font-face {
+    font-family: "游ゴシック-Light";
+    font-weight: 400;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Italic"), local("Inter Regular Italic"), local("Inter Italic");
+}
+
+@font-face {
+    font-family: "游ゴシック-Light";
+    font-weight: 500;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium Italic"), local("Inter Medium Italic");
+}
+
+@font-face {
+    font-family: "游ゴシック-Light";
+    font-weight: 600;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold Italic"), local("Inter SemiBold Italic");
+}
+
+@font-face {
+    font-family: "游ゴシック-Light";
+    font-weight: 700;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold Italic"), local("Inter Bold Italic");
+}
+
+@font-face {
+    font-family: "游ゴシック-Light";
+    font-weight: 800;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold Italic"), local("Inter ExtraBold Italic");
+}
+
+@font-face {
+    font-family: "游ゴシック-Light";
+    font-weight: 900;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black Italic"), local("Inter Black Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic M";
+    font-weight: 100 200;
+    src: local("Source Han Sans JP ExtraLight");
+}
+
+@font-face {
+    font-family: "Yu Gothic M";
+    font-weight: 300;
+    src: local("Source Han Sans JP Light");
+}
+
+@font-face {
+    font-family: "Yu Gothic M";
+    font-weight: 400;
+    src: local("Source Han Sans JP"), local("Source Han Sans JP Normal");
+}
+
+@font-face {
+    font-family: "Yu Gothic M";
+    font-weight: 500 600;
+    src: local("Source Han Sans JP Medium");
+}
+
+@font-face {
+    font-family: "Yu Gothic M";
+    font-weight: 700;
+    src: local("Source Han Sans JP Bold");
+}
+
+@font-face {
+    font-family: "Yu Gothic M";
+    font-weight: 800 900;
+    src: local("Source Han Sans JP Heavy");
+}
+
+@font-face {
+    font-family: "Yu Gothic M";
+    font-weight: 100;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin"), local("Inter Thin");
+}
+
+@font-face {
+    font-family: "Yu Gothic M";
+    font-weight: 200;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight"), local("Inter ExtraLight");
+}
+
+@font-face {
+    font-family: "Yu Gothic M";
+    font-weight: 300;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light"), local("Inter Light");
+}
+
+@font-face {
+    font-family: "Yu Gothic M";
+    font-weight: 400;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text"), local("Inter Regular"), local("Inter");
+}
+
+@font-face {
+    font-family: "Yu Gothic M";
+    font-weight: 500;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium"), local("Inter Medium");
+}
+
+@font-face {
+    font-family: "Yu Gothic M";
+    font-weight: 600;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold"), local("Inter SemiBold");
+}
+
+@font-face {
+    font-family: "Yu Gothic M";
+    font-weight: 700;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold"), local("Inter Bold");
+}
+
+@font-face {
+    font-family: "Yu Gothic M";
+    font-weight: 800;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold"), local("Inter ExtraBold");
+}
+
+@font-face {
+    font-family: "Yu Gothic M";
+    font-weight: 900;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black"), local("Inter Black");
+}
+
+@font-face {
+    font-family: "Yu Gothic M";
+    font-weight: 100;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin Italic"), local("Inter Thin Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic M";
+    font-weight: 200;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight Italic"), local("Inter ExtraLight Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic M";
+    font-weight: 300;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light Italic"), local("Inter Light Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic M";
+    font-weight: 400;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Italic"), local("Inter Regular Italic"), local("Inter Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic M";
+    font-weight: 500;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium Italic"), local("Inter Medium Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic M";
+    font-weight: 600;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold Italic"), local("Inter SemiBold Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic M";
+    font-weight: 700;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold Italic"), local("Inter Bold Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic M";
+    font-weight: 800;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold Italic"), local("Inter ExtraBold Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic M";
+    font-weight: 900;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black Italic"), local("Inter Black Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic-M";
+    font-weight: 100 200;
+    src: local("Source Han Sans JP ExtraLight");
+}
+
+@font-face {
+    font-family: "Yu Gothic-M";
+    font-weight: 300;
+    src: local("Source Han Sans JP Light");
+}
+
+@font-face {
+    font-family: "Yu Gothic-M";
+    font-weight: 400;
+    src: local("Source Han Sans JP"), local("Source Han Sans JP Normal");
+}
+
+@font-face {
+    font-family: "Yu Gothic-M";
+    font-weight: 500 600;
+    src: local("Source Han Sans JP Medium");
+}
+
+@font-face {
+    font-family: "Yu Gothic-M";
+    font-weight: 700;
+    src: local("Source Han Sans JP Bold");
+}
+
+@font-face {
+    font-family: "Yu Gothic-M";
+    font-weight: 800 900;
+    src: local("Source Han Sans JP Heavy");
+}
+
+@font-face {
+    font-family: "Yu Gothic-M";
+    font-weight: 100;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin"), local("Inter Thin");
+}
+
+@font-face {
+    font-family: "Yu Gothic-M";
+    font-weight: 200;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight"), local("Inter ExtraLight");
+}
+
+@font-face {
+    font-family: "Yu Gothic-M";
+    font-weight: 300;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light"), local("Inter Light");
+}
+
+@font-face {
+    font-family: "Yu Gothic-M";
+    font-weight: 400;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text"), local("Inter Regular"), local("Inter");
+}
+
+@font-face {
+    font-family: "Yu Gothic-M";
+    font-weight: 500;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium"), local("Inter Medium");
+}
+
+@font-face {
+    font-family: "Yu Gothic-M";
+    font-weight: 600;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold"), local("Inter SemiBold");
+}
+
+@font-face {
+    font-family: "Yu Gothic-M";
+    font-weight: 700;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold"), local("Inter Bold");
+}
+
+@font-face {
+    font-family: "Yu Gothic-M";
+    font-weight: 800;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold"), local("Inter ExtraBold");
+}
+
+@font-face {
+    font-family: "Yu Gothic-M";
+    font-weight: 900;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black"), local("Inter Black");
+}
+
+@font-face {
+    font-family: "Yu Gothic-M";
+    font-weight: 100;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin Italic"), local("Inter Thin Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic-M";
+    font-weight: 200;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight Italic"), local("Inter ExtraLight Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic-M";
+    font-weight: 300;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light Italic"), local("Inter Light Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic-M";
+    font-weight: 400;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Italic"), local("Inter Regular Italic"), local("Inter Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic-M";
+    font-weight: 500;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium Italic"), local("Inter Medium Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic-M";
+    font-weight: 600;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold Italic"), local("Inter SemiBold Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic-M";
+    font-weight: 700;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold Italic"), local("Inter Bold Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic-M";
+    font-weight: 800;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold Italic"), local("Inter ExtraBold Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic-M";
+    font-weight: 900;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black Italic"), local("Inter Black Italic");
+}
+
+@font-face {
+    font-family: "Yu GothicM";
+    font-weight: 100 200;
+    src: local("Source Han Sans JP ExtraLight");
+}
+
+@font-face {
+    font-family: "Yu GothicM";
+    font-weight: 300;
+    src: local("Source Han Sans JP Light");
+}
+
+@font-face {
+    font-family: "Yu GothicM";
+    font-weight: 400;
+    src: local("Source Han Sans JP"), local("Source Han Sans JP Normal");
+}
+
+@font-face {
+    font-family: "Yu GothicM";
+    font-weight: 500 600;
+    src: local("Source Han Sans JP Medium");
+}
+
+@font-face {
+    font-family: "Yu GothicM";
+    font-weight: 700;
+    src: local("Source Han Sans JP Bold");
+}
+
+@font-face {
+    font-family: "Yu GothicM";
+    font-weight: 800 900;
+    src: local("Source Han Sans JP Heavy");
+}
+
+@font-face {
+    font-family: "Yu GothicM";
+    font-weight: 100;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin"), local("Inter Thin");
+}
+
+@font-face {
+    font-family: "Yu GothicM";
+    font-weight: 200;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight"), local("Inter ExtraLight");
+}
+
+@font-face {
+    font-family: "Yu GothicM";
+    font-weight: 300;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light"), local("Inter Light");
+}
+
+@font-face {
+    font-family: "Yu GothicM";
+    font-weight: 400;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text"), local("Inter Regular"), local("Inter");
+}
+
+@font-face {
+    font-family: "Yu GothicM";
+    font-weight: 500;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium"), local("Inter Medium");
+}
+
+@font-face {
+    font-family: "Yu GothicM";
+    font-weight: 600;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold"), local("Inter SemiBold");
+}
+
+@font-face {
+    font-family: "Yu GothicM";
+    font-weight: 700;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold"), local("Inter Bold");
+}
+
+@font-face {
+    font-family: "Yu GothicM";
+    font-weight: 800;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold"), local("Inter ExtraBold");
+}
+
+@font-face {
+    font-family: "Yu GothicM";
+    font-weight: 900;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black"), local("Inter Black");
+}
+
+@font-face {
+    font-family: "Yu GothicM";
+    font-weight: 100;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin Italic"), local("Inter Thin Italic");
+}
+
+@font-face {
+    font-family: "Yu GothicM";
+    font-weight: 200;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight Italic"), local("Inter ExtraLight Italic");
+}
+
+@font-face {
+    font-family: "Yu GothicM";
+    font-weight: 300;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light Italic"), local("Inter Light Italic");
+}
+
+@font-face {
+    font-family: "Yu GothicM";
+    font-weight: 400;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Italic"), local("Inter Regular Italic"), local("Inter Italic");
+}
+
+@font-face {
+    font-family: "Yu GothicM";
+    font-weight: 500;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium Italic"), local("Inter Medium Italic");
+}
+
+@font-face {
+    font-family: "Yu GothicM";
+    font-weight: 600;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold Italic"), local("Inter SemiBold Italic");
+}
+
+@font-face {
+    font-family: "Yu GothicM";
+    font-weight: 700;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold Italic"), local("Inter Bold Italic");
+}
+
+@font-face {
+    font-family: "Yu GothicM";
+    font-weight: 800;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold Italic"), local("Inter ExtraBold Italic");
+}
+
+@font-face {
+    font-family: "Yu GothicM";
+    font-weight: 900;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black Italic"), local("Inter Black Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic Medium";
+    font-weight: 100 200;
+    src: local("Source Han Sans JP ExtraLight");
+}
+
+@font-face {
+    font-family: "Yu Gothic Medium";
+    font-weight: 300;
+    src: local("Source Han Sans JP Light");
+}
+
+@font-face {
+    font-family: "Yu Gothic Medium";
+    font-weight: 400;
+    src: local("Source Han Sans JP"), local("Source Han Sans JP Normal");
+}
+
+@font-face {
+    font-family: "Yu Gothic Medium";
+    font-weight: 500 600;
+    src: local("Source Han Sans JP Medium");
+}
+
+@font-face {
+    font-family: "Yu Gothic Medium";
+    font-weight: 700;
+    src: local("Source Han Sans JP Bold");
+}
+
+@font-face {
+    font-family: "Yu Gothic Medium";
+    font-weight: 800 900;
+    src: local("Source Han Sans JP Heavy");
+}
+
+@font-face {
+    font-family: "Yu Gothic Medium";
+    font-weight: 100;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin"), local("Inter Thin");
+}
+
+@font-face {
+    font-family: "Yu Gothic Medium";
+    font-weight: 200;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight"), local("Inter ExtraLight");
+}
+
+@font-face {
+    font-family: "Yu Gothic Medium";
+    font-weight: 300;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light"), local("Inter Light");
+}
+
+@font-face {
+    font-family: "Yu Gothic Medium";
+    font-weight: 400;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text"), local("Inter Regular"), local("Inter");
+}
+
+@font-face {
+    font-family: "Yu Gothic Medium";
+    font-weight: 500;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium"), local("Inter Medium");
+}
+
+@font-face {
+    font-family: "Yu Gothic Medium";
+    font-weight: 600;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold"), local("Inter SemiBold");
+}
+
+@font-face {
+    font-family: "Yu Gothic Medium";
+    font-weight: 700;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold"), local("Inter Bold");
+}
+
+@font-face {
+    font-family: "Yu Gothic Medium";
+    font-weight: 800;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold"), local("Inter ExtraBold");
+}
+
+@font-face {
+    font-family: "Yu Gothic Medium";
+    font-weight: 900;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black"), local("Inter Black");
+}
+
+@font-face {
+    font-family: "Yu Gothic Medium";
+    font-weight: 100;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin Italic"), local("Inter Thin Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic Medium";
+    font-weight: 200;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight Italic"), local("Inter ExtraLight Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic Medium";
+    font-weight: 300;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light Italic"), local("Inter Light Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic Medium";
+    font-weight: 400;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Italic"), local("Inter Regular Italic"), local("Inter Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic Medium";
+    font-weight: 500;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium Italic"), local("Inter Medium Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic Medium";
+    font-weight: 600;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold Italic"), local("Inter SemiBold Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic Medium";
+    font-weight: 700;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold Italic"), local("Inter Bold Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic Medium";
+    font-weight: 800;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold Italic"), local("Inter ExtraBold Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic Medium";
+    font-weight: 900;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black Italic"), local("Inter Black Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Medium";
+    font-weight: 100 200;
+    src: local("Source Han Sans JP ExtraLight");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Medium";
+    font-weight: 300;
+    src: local("Source Han Sans JP Light");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Medium";
+    font-weight: 400;
+    src: local("Source Han Sans JP"), local("Source Han Sans JP Normal");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Medium";
+    font-weight: 500 600;
+    src: local("Source Han Sans JP Medium");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Medium";
+    font-weight: 700;
+    src: local("Source Han Sans JP Bold");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Medium";
+    font-weight: 800 900;
+    src: local("Source Han Sans JP Heavy");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Medium";
+    font-weight: 100;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin"), local("Inter Thin");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Medium";
+    font-weight: 200;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight"), local("Inter ExtraLight");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Medium";
+    font-weight: 300;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light"), local("Inter Light");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Medium";
+    font-weight: 400;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text"), local("Inter Regular"), local("Inter");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Medium";
+    font-weight: 500;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium"), local("Inter Medium");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Medium";
+    font-weight: 600;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold"), local("Inter SemiBold");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Medium";
+    font-weight: 700;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold"), local("Inter Bold");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Medium";
+    font-weight: 800;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold"), local("Inter ExtraBold");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Medium";
+    font-weight: 900;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black"), local("Inter Black");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Medium";
+    font-weight: 100;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin Italic"), local("Inter Thin Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Medium";
+    font-weight: 200;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight Italic"), local("Inter ExtraLight Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Medium";
+    font-weight: 300;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light Italic"), local("Inter Light Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Medium";
+    font-weight: 400;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Italic"), local("Inter Regular Italic"), local("Inter Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Medium";
+    font-weight: 500;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium Italic"), local("Inter Medium Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Medium";
+    font-weight: 600;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold Italic"), local("Inter SemiBold Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Medium";
+    font-weight: 700;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold Italic"), local("Inter Bold Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Medium";
+    font-weight: 800;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold Italic"), local("Inter ExtraBold Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Medium";
+    font-weight: 900;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black Italic"), local("Inter Black Italic");
+}
+
+@font-face {
     font-family: "YuGothic M";
     font-weight: 100 200;
     src: local("Source Han Sans JP ExtraLight");
@@ -2392,6 +4444,348 @@
 
 @font-face {
     font-family: "YuGothic M";
+    font-weight: 900;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black Italic"), local("Inter Black Italic");
+}
+
+@font-face {
+    font-family: "YuGothic-M";
+    font-weight: 100 200;
+    src: local("Source Han Sans JP ExtraLight");
+}
+
+@font-face {
+    font-family: "YuGothic-M";
+    font-weight: 300;
+    src: local("Source Han Sans JP Light");
+}
+
+@font-face {
+    font-family: "YuGothic-M";
+    font-weight: 400;
+    src: local("Source Han Sans JP"), local("Source Han Sans JP Normal");
+}
+
+@font-face {
+    font-family: "YuGothic-M";
+    font-weight: 500 600;
+    src: local("Source Han Sans JP Medium");
+}
+
+@font-face {
+    font-family: "YuGothic-M";
+    font-weight: 700;
+    src: local("Source Han Sans JP Bold");
+}
+
+@font-face {
+    font-family: "YuGothic-M";
+    font-weight: 800 900;
+    src: local("Source Han Sans JP Heavy");
+}
+
+@font-face {
+    font-family: "YuGothic-M";
+    font-weight: 100;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin"), local("Inter Thin");
+}
+
+@font-face {
+    font-family: "YuGothic-M";
+    font-weight: 200;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight"), local("Inter ExtraLight");
+}
+
+@font-face {
+    font-family: "YuGothic-M";
+    font-weight: 300;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light"), local("Inter Light");
+}
+
+@font-face {
+    font-family: "YuGothic-M";
+    font-weight: 400;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text"), local("Inter Regular"), local("Inter");
+}
+
+@font-face {
+    font-family: "YuGothic-M";
+    font-weight: 500;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium"), local("Inter Medium");
+}
+
+@font-face {
+    font-family: "YuGothic-M";
+    font-weight: 600;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold"), local("Inter SemiBold");
+}
+
+@font-face {
+    font-family: "YuGothic-M";
+    font-weight: 700;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold"), local("Inter Bold");
+}
+
+@font-face {
+    font-family: "YuGothic-M";
+    font-weight: 800;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold"), local("Inter ExtraBold");
+}
+
+@font-face {
+    font-family: "YuGothic-M";
+    font-weight: 900;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black"), local("Inter Black");
+}
+
+@font-face {
+    font-family: "YuGothic-M";
+    font-weight: 100;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin Italic"), local("Inter Thin Italic");
+}
+
+@font-face {
+    font-family: "YuGothic-M";
+    font-weight: 200;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight Italic"), local("Inter ExtraLight Italic");
+}
+
+@font-face {
+    font-family: "YuGothic-M";
+    font-weight: 300;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light Italic"), local("Inter Light Italic");
+}
+
+@font-face {
+    font-family: "YuGothic-M";
+    font-weight: 400;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Italic"), local("Inter Regular Italic"), local("Inter Italic");
+}
+
+@font-face {
+    font-family: "YuGothic-M";
+    font-weight: 500;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium Italic"), local("Inter Medium Italic");
+}
+
+@font-face {
+    font-family: "YuGothic-M";
+    font-weight: 600;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold Italic"), local("Inter SemiBold Italic");
+}
+
+@font-face {
+    font-family: "YuGothic-M";
+    font-weight: 700;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold Italic"), local("Inter Bold Italic");
+}
+
+@font-face {
+    font-family: "YuGothic-M";
+    font-weight: 800;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold Italic"), local("Inter ExtraBold Italic");
+}
+
+@font-face {
+    font-family: "YuGothic-M";
+    font-weight: 900;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black Italic"), local("Inter Black Italic");
+}
+
+@font-face {
+    font-family: "YuGothicM";
+    font-weight: 100 200;
+    src: local("Source Han Sans JP ExtraLight");
+}
+
+@font-face {
+    font-family: "YuGothicM";
+    font-weight: 300;
+    src: local("Source Han Sans JP Light");
+}
+
+@font-face {
+    font-family: "YuGothicM";
+    font-weight: 400;
+    src: local("Source Han Sans JP"), local("Source Han Sans JP Normal");
+}
+
+@font-face {
+    font-family: "YuGothicM";
+    font-weight: 500 600;
+    src: local("Source Han Sans JP Medium");
+}
+
+@font-face {
+    font-family: "YuGothicM";
+    font-weight: 700;
+    src: local("Source Han Sans JP Bold");
+}
+
+@font-face {
+    font-family: "YuGothicM";
+    font-weight: 800 900;
+    src: local("Source Han Sans JP Heavy");
+}
+
+@font-face {
+    font-family: "YuGothicM";
+    font-weight: 100;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin"), local("Inter Thin");
+}
+
+@font-face {
+    font-family: "YuGothicM";
+    font-weight: 200;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight"), local("Inter ExtraLight");
+}
+
+@font-face {
+    font-family: "YuGothicM";
+    font-weight: 300;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light"), local("Inter Light");
+}
+
+@font-face {
+    font-family: "YuGothicM";
+    font-weight: 400;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text"), local("Inter Regular"), local("Inter");
+}
+
+@font-face {
+    font-family: "YuGothicM";
+    font-weight: 500;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium"), local("Inter Medium");
+}
+
+@font-face {
+    font-family: "YuGothicM";
+    font-weight: 600;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold"), local("Inter SemiBold");
+}
+
+@font-face {
+    font-family: "YuGothicM";
+    font-weight: 700;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold"), local("Inter Bold");
+}
+
+@font-face {
+    font-family: "YuGothicM";
+    font-weight: 800;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold"), local("Inter ExtraBold");
+}
+
+@font-face {
+    font-family: "YuGothicM";
+    font-weight: 900;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black"), local("Inter Black");
+}
+
+@font-face {
+    font-family: "YuGothicM";
+    font-weight: 100;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin Italic"), local("Inter Thin Italic");
+}
+
+@font-face {
+    font-family: "YuGothicM";
+    font-weight: 200;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight Italic"), local("Inter ExtraLight Italic");
+}
+
+@font-face {
+    font-family: "YuGothicM";
+    font-weight: 300;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light Italic"), local("Inter Light Italic");
+}
+
+@font-face {
+    font-family: "YuGothicM";
+    font-weight: 400;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Italic"), local("Inter Regular Italic"), local("Inter Italic");
+}
+
+@font-face {
+    font-family: "YuGothicM";
+    font-weight: 500;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium Italic"), local("Inter Medium Italic");
+}
+
+@font-face {
+    font-family: "YuGothicM";
+    font-weight: 600;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold Italic"), local("Inter SemiBold Italic");
+}
+
+@font-face {
+    font-family: "YuGothicM";
+    font-weight: 700;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold Italic"), local("Inter Bold Italic");
+}
+
+@font-face {
+    font-family: "YuGothicM";
+    font-weight: 800;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold Italic"), local("Inter ExtraBold Italic");
+}
+
+@font-face {
+    font-family: "YuGothicM";
     font-weight: 900;
     font-style: italic;
     unicode-range: U+0021-007F;
@@ -2570,106 +4964,106 @@
 }
 
 @font-face {
-    font-family: "YuGothic-M";
+    font-family: "YuGothic-Medium";
     font-weight: 100 200;
     src: local("Source Han Sans JP ExtraLight");
 }
 
 @font-face {
-    font-family: "YuGothic-M";
+    font-family: "YuGothic-Medium";
     font-weight: 300;
     src: local("Source Han Sans JP Light");
 }
 
 @font-face {
-    font-family: "YuGothic-M";
+    font-family: "YuGothic-Medium";
     font-weight: 400;
     src: local("Source Han Sans JP"), local("Source Han Sans JP Normal");
 }
 
 @font-face {
-    font-family: "YuGothic-M";
+    font-family: "YuGothic-Medium";
     font-weight: 500 600;
     src: local("Source Han Sans JP Medium");
 }
 
 @font-face {
-    font-family: "YuGothic-M";
+    font-family: "YuGothic-Medium";
     font-weight: 700;
     src: local("Source Han Sans JP Bold");
 }
 
 @font-face {
-    font-family: "YuGothic-M";
+    font-family: "YuGothic-Medium";
     font-weight: 800 900;
     src: local("Source Han Sans JP Heavy");
 }
 
 @font-face {
-    font-family: "YuGothic-M";
+    font-family: "YuGothic-Medium";
     font-weight: 100;
     unicode-range: U+0021-007F;
     src: local("Inter Variable Text Thin"), local("Inter Thin");
 }
 
 @font-face {
-    font-family: "YuGothic-M";
+    font-family: "YuGothic-Medium";
     font-weight: 200;
     unicode-range: U+0021-007F;
     src: local("Inter Variable Text ExtraLight"), local("Inter ExtraLight");
 }
 
 @font-face {
-    font-family: "YuGothic-M";
+    font-family: "YuGothic-Medium";
     font-weight: 300;
     unicode-range: U+0021-007F;
     src: local("Inter Variable Text Light"), local("Inter Light");
 }
 
 @font-face {
-    font-family: "YuGothic-M";
+    font-family: "YuGothic-Medium";
     font-weight: 400;
     unicode-range: U+0021-007F;
     src: local("Inter Variable Text"), local("Inter Regular"), local("Inter");
 }
 
 @font-face {
-    font-family: "YuGothic-M";
+    font-family: "YuGothic-Medium";
     font-weight: 500;
     unicode-range: U+0021-007F;
     src: local("Inter Variable Text Medium"), local("Inter Medium");
 }
 
 @font-face {
-    font-family: "YuGothic-M";
+    font-family: "YuGothic-Medium";
     font-weight: 600;
     unicode-range: U+0021-007F;
     src: local("Inter Variable Text SemiBold"), local("Inter SemiBold");
 }
 
 @font-face {
-    font-family: "YuGothic-M";
+    font-family: "YuGothic-Medium";
     font-weight: 700;
     unicode-range: U+0021-007F;
     src: local("Inter Variable Text Bold"), local("Inter Bold");
 }
 
 @font-face {
-    font-family: "YuGothic-M";
+    font-family: "YuGothic-Medium";
     font-weight: 800;
     unicode-range: U+0021-007F;
     src: local("Inter Variable Text ExtraBold"), local("Inter ExtraBold");
 }
 
 @font-face {
-    font-family: "YuGothic-M";
+    font-family: "YuGothic-Medium";
     font-weight: 900;
     unicode-range: U+0021-007F;
     src: local("Inter Variable Text Black"), local("Inter Black");
 }
 
 @font-face {
-    font-family: "YuGothic-M";
+    font-family: "YuGothic-Medium";
     font-weight: 100;
     font-style: italic;
     unicode-range: U+0021-007F;
@@ -2677,7 +5071,7 @@
 }
 
 @font-face {
-    font-family: "YuGothic-M";
+    font-family: "YuGothic-Medium";
     font-weight: 200;
     font-style: italic;
     unicode-range: U+0021-007F;
@@ -2685,7 +5079,7 @@
 }
 
 @font-face {
-    font-family: "YuGothic-M";
+    font-family: "YuGothic-Medium";
     font-weight: 300;
     font-style: italic;
     unicode-range: U+0021-007F;
@@ -2693,7 +5087,7 @@
 }
 
 @font-face {
-    font-family: "YuGothic-M";
+    font-family: "YuGothic-Medium";
     font-weight: 400;
     font-style: italic;
     unicode-range: U+0021-007F;
@@ -2701,7 +5095,7 @@
 }
 
 @font-face {
-    font-family: "YuGothic-M";
+    font-family: "YuGothic-Medium";
     font-weight: 500;
     font-style: italic;
     unicode-range: U+0021-007F;
@@ -2709,7 +5103,7 @@
 }
 
 @font-face {
-    font-family: "YuGothic-M";
+    font-family: "YuGothic-Medium";
     font-weight: 600;
     font-style: italic;
     unicode-range: U+0021-007F;
@@ -2717,7 +5111,7 @@
 }
 
 @font-face {
-    font-family: "YuGothic-M";
+    font-family: "YuGothic-Medium";
     font-weight: 700;
     font-style: italic;
     unicode-range: U+0021-007F;
@@ -2725,7 +5119,7 @@
 }
 
 @font-face {
-    font-family: "YuGothic-M";
+    font-family: "YuGothic-Medium";
     font-weight: 800;
     font-style: italic;
     unicode-range: U+0021-007F;
@@ -2733,7 +5127,7 @@
 }
 
 @font-face {
-    font-family: "YuGothic-M";
+    font-family: "YuGothic-Medium";
     font-weight: 900;
     font-style: italic;
     unicode-range: U+0021-007F;
@@ -2741,106 +5135,106 @@
 }
 
 @font-face {
-    font-family: "YuGothicM";
+    font-family: "游ゴシック M";
     font-weight: 100 200;
     src: local("Source Han Sans JP ExtraLight");
 }
 
 @font-face {
-    font-family: "YuGothicM";
+    font-family: "游ゴシック M";
     font-weight: 300;
     src: local("Source Han Sans JP Light");
 }
 
 @font-face {
-    font-family: "YuGothicM";
+    font-family: "游ゴシック M";
     font-weight: 400;
     src: local("Source Han Sans JP"), local("Source Han Sans JP Normal");
 }
 
 @font-face {
-    font-family: "YuGothicM";
+    font-family: "游ゴシック M";
     font-weight: 500 600;
     src: local("Source Han Sans JP Medium");
 }
 
 @font-face {
-    font-family: "YuGothicM";
+    font-family: "游ゴシック M";
     font-weight: 700;
     src: local("Source Han Sans JP Bold");
 }
 
 @font-face {
-    font-family: "YuGothicM";
+    font-family: "游ゴシック M";
     font-weight: 800 900;
     src: local("Source Han Sans JP Heavy");
 }
 
 @font-face {
-    font-family: "YuGothicM";
+    font-family: "游ゴシック M";
     font-weight: 100;
     unicode-range: U+0021-007F;
     src: local("Inter Variable Text Thin"), local("Inter Thin");
 }
 
 @font-face {
-    font-family: "YuGothicM";
+    font-family: "游ゴシック M";
     font-weight: 200;
     unicode-range: U+0021-007F;
     src: local("Inter Variable Text ExtraLight"), local("Inter ExtraLight");
 }
 
 @font-face {
-    font-family: "YuGothicM";
+    font-family: "游ゴシック M";
     font-weight: 300;
     unicode-range: U+0021-007F;
     src: local("Inter Variable Text Light"), local("Inter Light");
 }
 
 @font-face {
-    font-family: "YuGothicM";
+    font-family: "游ゴシック M";
     font-weight: 400;
     unicode-range: U+0021-007F;
     src: local("Inter Variable Text"), local("Inter Regular"), local("Inter");
 }
 
 @font-face {
-    font-family: "YuGothicM";
+    font-family: "游ゴシック M";
     font-weight: 500;
     unicode-range: U+0021-007F;
     src: local("Inter Variable Text Medium"), local("Inter Medium");
 }
 
 @font-face {
-    font-family: "YuGothicM";
+    font-family: "游ゴシック M";
     font-weight: 600;
     unicode-range: U+0021-007F;
     src: local("Inter Variable Text SemiBold"), local("Inter SemiBold");
 }
 
 @font-face {
-    font-family: "YuGothicM";
+    font-family: "游ゴシック M";
     font-weight: 700;
     unicode-range: U+0021-007F;
     src: local("Inter Variable Text Bold"), local("Inter Bold");
 }
 
 @font-face {
-    font-family: "YuGothicM";
+    font-family: "游ゴシック M";
     font-weight: 800;
     unicode-range: U+0021-007F;
     src: local("Inter Variable Text ExtraBold"), local("Inter ExtraBold");
 }
 
 @font-face {
-    font-family: "YuGothicM";
+    font-family: "游ゴシック M";
     font-weight: 900;
     unicode-range: U+0021-007F;
     src: local("Inter Variable Text Black"), local("Inter Black");
 }
 
 @font-face {
-    font-family: "YuGothicM";
+    font-family: "游ゴシック M";
     font-weight: 100;
     font-style: italic;
     unicode-range: U+0021-007F;
@@ -2848,7 +5242,7 @@
 }
 
 @font-face {
-    font-family: "YuGothicM";
+    font-family: "游ゴシック M";
     font-weight: 200;
     font-style: italic;
     unicode-range: U+0021-007F;
@@ -2856,7 +5250,7 @@
 }
 
 @font-face {
-    font-family: "YuGothicM";
+    font-family: "游ゴシック M";
     font-weight: 300;
     font-style: italic;
     unicode-range: U+0021-007F;
@@ -2864,7 +5258,7 @@
 }
 
 @font-face {
-    font-family: "YuGothicM";
+    font-family: "游ゴシック M";
     font-weight: 400;
     font-style: italic;
     unicode-range: U+0021-007F;
@@ -2872,7 +5266,7 @@
 }
 
 @font-face {
-    font-family: "YuGothicM";
+    font-family: "游ゴシック M";
     font-weight: 500;
     font-style: italic;
     unicode-range: U+0021-007F;
@@ -2880,7 +5274,7 @@
 }
 
 @font-face {
-    font-family: "YuGothicM";
+    font-family: "游ゴシック M";
     font-weight: 600;
     font-style: italic;
     unicode-range: U+0021-007F;
@@ -2888,7 +5282,7 @@
 }
 
 @font-face {
-    font-family: "YuGothicM";
+    font-family: "游ゴシック M";
     font-weight: 700;
     font-style: italic;
     unicode-range: U+0021-007F;
@@ -2896,7 +5290,7 @@
 }
 
 @font-face {
-    font-family: "YuGothicM";
+    font-family: "游ゴシック M";
     font-weight: 800;
     font-style: italic;
     unicode-range: U+0021-007F;
@@ -2904,7 +5298,7 @@
 }
 
 @font-face {
-    font-family: "YuGothicM";
+    font-family: "游ゴシック M";
     font-weight: 900;
     font-style: italic;
     unicode-range: U+0021-007F;
@@ -2912,106 +5306,106 @@
 }
 
 @font-face {
-    font-family: "游ゴシック";
+    font-family: "游ゴシック-M";
     font-weight: 100 200;
     src: local("Source Han Sans JP ExtraLight");
 }
 
 @font-face {
-    font-family: "游ゴシック";
+    font-family: "游ゴシック-M";
     font-weight: 300;
     src: local("Source Han Sans JP Light");
 }
 
 @font-face {
-    font-family: "游ゴシック";
+    font-family: "游ゴシック-M";
     font-weight: 400;
     src: local("Source Han Sans JP"), local("Source Han Sans JP Normal");
 }
 
 @font-face {
-    font-family: "游ゴシック";
+    font-family: "游ゴシック-M";
     font-weight: 500 600;
     src: local("Source Han Sans JP Medium");
 }
 
 @font-face {
-    font-family: "游ゴシック";
+    font-family: "游ゴシック-M";
     font-weight: 700;
     src: local("Source Han Sans JP Bold");
 }
 
 @font-face {
-    font-family: "游ゴシック";
+    font-family: "游ゴシック-M";
     font-weight: 800 900;
     src: local("Source Han Sans JP Heavy");
 }
 
 @font-face {
-    font-family: "游ゴシック";
+    font-family: "游ゴシック-M";
     font-weight: 100;
     unicode-range: U+0021-007F;
     src: local("Inter Variable Text Thin"), local("Inter Thin");
 }
 
 @font-face {
-    font-family: "游ゴシック";
+    font-family: "游ゴシック-M";
     font-weight: 200;
     unicode-range: U+0021-007F;
     src: local("Inter Variable Text ExtraLight"), local("Inter ExtraLight");
 }
 
 @font-face {
-    font-family: "游ゴシック";
+    font-family: "游ゴシック-M";
     font-weight: 300;
     unicode-range: U+0021-007F;
     src: local("Inter Variable Text Light"), local("Inter Light");
 }
 
 @font-face {
-    font-family: "游ゴシック";
+    font-family: "游ゴシック-M";
     font-weight: 400;
     unicode-range: U+0021-007F;
     src: local("Inter Variable Text"), local("Inter Regular"), local("Inter");
 }
 
 @font-face {
-    font-family: "游ゴシック";
+    font-family: "游ゴシック-M";
     font-weight: 500;
     unicode-range: U+0021-007F;
     src: local("Inter Variable Text Medium"), local("Inter Medium");
 }
 
 @font-face {
-    font-family: "游ゴシック";
+    font-family: "游ゴシック-M";
     font-weight: 600;
     unicode-range: U+0021-007F;
     src: local("Inter Variable Text SemiBold"), local("Inter SemiBold");
 }
 
 @font-face {
-    font-family: "游ゴシック";
+    font-family: "游ゴシック-M";
     font-weight: 700;
     unicode-range: U+0021-007F;
     src: local("Inter Variable Text Bold"), local("Inter Bold");
 }
 
 @font-face {
-    font-family: "游ゴシック";
+    font-family: "游ゴシック-M";
     font-weight: 800;
     unicode-range: U+0021-007F;
     src: local("Inter Variable Text ExtraBold"), local("Inter ExtraBold");
 }
 
 @font-face {
-    font-family: "游ゴシック";
+    font-family: "游ゴシック-M";
     font-weight: 900;
     unicode-range: U+0021-007F;
     src: local("Inter Variable Text Black"), local("Inter Black");
 }
 
 @font-face {
-    font-family: "游ゴシック";
+    font-family: "游ゴシック-M";
     font-weight: 100;
     font-style: italic;
     unicode-range: U+0021-007F;
@@ -3019,7 +5413,7 @@
 }
 
 @font-face {
-    font-family: "游ゴシック";
+    font-family: "游ゴシック-M";
     font-weight: 200;
     font-style: italic;
     unicode-range: U+0021-007F;
@@ -3027,7 +5421,7 @@
 }
 
 @font-face {
-    font-family: "游ゴシック";
+    font-family: "游ゴシック-M";
     font-weight: 300;
     font-style: italic;
     unicode-range: U+0021-007F;
@@ -3035,7 +5429,7 @@
 }
 
 @font-face {
-    font-family: "游ゴシック";
+    font-family: "游ゴシック-M";
     font-weight: 400;
     font-style: italic;
     unicode-range: U+0021-007F;
@@ -3043,7 +5437,7 @@
 }
 
 @font-face {
-    font-family: "游ゴシック";
+    font-family: "游ゴシック-M";
     font-weight: 500;
     font-style: italic;
     unicode-range: U+0021-007F;
@@ -3051,7 +5445,7 @@
 }
 
 @font-face {
-    font-family: "游ゴシック";
+    font-family: "游ゴシック-M";
     font-weight: 600;
     font-style: italic;
     unicode-range: U+0021-007F;
@@ -3059,7 +5453,7 @@
 }
 
 @font-face {
-    font-family: "游ゴシック";
+    font-family: "游ゴシック-M";
     font-weight: 700;
     font-style: italic;
     unicode-range: U+0021-007F;
@@ -3067,7 +5461,7 @@
 }
 
 @font-face {
-    font-family: "游ゴシック";
+    font-family: "游ゴシック-M";
     font-weight: 800;
     font-style: italic;
     unicode-range: U+0021-007F;
@@ -3075,7 +5469,178 @@
 }
 
 @font-face {
-    font-family: "游ゴシック";
+    font-family: "游ゴシック-M";
+    font-weight: 900;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black Italic"), local("Inter Black Italic");
+}
+
+@font-face {
+    font-family: "游ゴシックM";
+    font-weight: 100 200;
+    src: local("Source Han Sans JP ExtraLight");
+}
+
+@font-face {
+    font-family: "游ゴシックM";
+    font-weight: 300;
+    src: local("Source Han Sans JP Light");
+}
+
+@font-face {
+    font-family: "游ゴシックM";
+    font-weight: 400;
+    src: local("Source Han Sans JP"), local("Source Han Sans JP Normal");
+}
+
+@font-face {
+    font-family: "游ゴシックM";
+    font-weight: 500 600;
+    src: local("Source Han Sans JP Medium");
+}
+
+@font-face {
+    font-family: "游ゴシックM";
+    font-weight: 700;
+    src: local("Source Han Sans JP Bold");
+}
+
+@font-face {
+    font-family: "游ゴシックM";
+    font-weight: 800 900;
+    src: local("Source Han Sans JP Heavy");
+}
+
+@font-face {
+    font-family: "游ゴシックM";
+    font-weight: 100;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin"), local("Inter Thin");
+}
+
+@font-face {
+    font-family: "游ゴシックM";
+    font-weight: 200;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight"), local("Inter ExtraLight");
+}
+
+@font-face {
+    font-family: "游ゴシックM";
+    font-weight: 300;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light"), local("Inter Light");
+}
+
+@font-face {
+    font-family: "游ゴシックM";
+    font-weight: 400;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text"), local("Inter Regular"), local("Inter");
+}
+
+@font-face {
+    font-family: "游ゴシックM";
+    font-weight: 500;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium"), local("Inter Medium");
+}
+
+@font-face {
+    font-family: "游ゴシックM";
+    font-weight: 600;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold"), local("Inter SemiBold");
+}
+
+@font-face {
+    font-family: "游ゴシックM";
+    font-weight: 700;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold"), local("Inter Bold");
+}
+
+@font-face {
+    font-family: "游ゴシックM";
+    font-weight: 800;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold"), local("Inter ExtraBold");
+}
+
+@font-face {
+    font-family: "游ゴシックM";
+    font-weight: 900;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black"), local("Inter Black");
+}
+
+@font-face {
+    font-family: "游ゴシックM";
+    font-weight: 100;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin Italic"), local("Inter Thin Italic");
+}
+
+@font-face {
+    font-family: "游ゴシックM";
+    font-weight: 200;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight Italic"), local("Inter ExtraLight Italic");
+}
+
+@font-face {
+    font-family: "游ゴシックM";
+    font-weight: 300;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light Italic"), local("Inter Light Italic");
+}
+
+@font-face {
+    font-family: "游ゴシックM";
+    font-weight: 400;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Italic"), local("Inter Regular Italic"), local("Inter Italic");
+}
+
+@font-face {
+    font-family: "游ゴシックM";
+    font-weight: 500;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium Italic"), local("Inter Medium Italic");
+}
+
+@font-face {
+    font-family: "游ゴシックM";
+    font-weight: 600;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold Italic"), local("Inter SemiBold Italic");
+}
+
+@font-face {
+    font-family: "游ゴシックM";
+    font-weight: 700;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold Italic"), local("Inter Bold Italic");
+}
+
+@font-face {
+    font-family: "游ゴシックM";
+    font-weight: 800;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold Italic"), local("Inter ExtraBold Italic");
+}
+
+@font-face {
+    font-family: "游ゴシックM";
     font-weight: 900;
     font-style: italic;
     unicode-range: U+0021-007F;
@@ -3254,106 +5819,106 @@
 }
 
 @font-face {
-    font-family: "CustomYuGothicM";
+    font-family: "游ゴシック-Medium";
     font-weight: 100 200;
     src: local("Source Han Sans JP ExtraLight");
 }
 
 @font-face {
-    font-family: "CustomYuGothicM";
+    font-family: "游ゴシック-Medium";
     font-weight: 300;
     src: local("Source Han Sans JP Light");
 }
 
 @font-face {
-    font-family: "CustomYuGothicM";
+    font-family: "游ゴシック-Medium";
     font-weight: 400;
     src: local("Source Han Sans JP"), local("Source Han Sans JP Normal");
 }
 
 @font-face {
-    font-family: "CustomYuGothicM";
+    font-family: "游ゴシック-Medium";
     font-weight: 500 600;
     src: local("Source Han Sans JP Medium");
 }
 
 @font-face {
-    font-family: "CustomYuGothicM";
+    font-family: "游ゴシック-Medium";
     font-weight: 700;
     src: local("Source Han Sans JP Bold");
 }
 
 @font-face {
-    font-family: "CustomYuGothicM";
+    font-family: "游ゴシック-Medium";
     font-weight: 800 900;
     src: local("Source Han Sans JP Heavy");
 }
 
 @font-face {
-    font-family: "CustomYuGothicM";
+    font-family: "游ゴシック-Medium";
     font-weight: 100;
     unicode-range: U+0021-007F;
     src: local("Inter Variable Text Thin"), local("Inter Thin");
 }
 
 @font-face {
-    font-family: "CustomYuGothicM";
+    font-family: "游ゴシック-Medium";
     font-weight: 200;
     unicode-range: U+0021-007F;
     src: local("Inter Variable Text ExtraLight"), local("Inter ExtraLight");
 }
 
 @font-face {
-    font-family: "CustomYuGothicM";
+    font-family: "游ゴシック-Medium";
     font-weight: 300;
     unicode-range: U+0021-007F;
     src: local("Inter Variable Text Light"), local("Inter Light");
 }
 
 @font-face {
-    font-family: "CustomYuGothicM";
+    font-family: "游ゴシック-Medium";
     font-weight: 400;
     unicode-range: U+0021-007F;
     src: local("Inter Variable Text"), local("Inter Regular"), local("Inter");
 }
 
 @font-face {
-    font-family: "CustomYuGothicM";
+    font-family: "游ゴシック-Medium";
     font-weight: 500;
     unicode-range: U+0021-007F;
     src: local("Inter Variable Text Medium"), local("Inter Medium");
 }
 
 @font-face {
-    font-family: "CustomYuGothicM";
+    font-family: "游ゴシック-Medium";
     font-weight: 600;
     unicode-range: U+0021-007F;
     src: local("Inter Variable Text SemiBold"), local("Inter SemiBold");
 }
 
 @font-face {
-    font-family: "CustomYuGothicM";
+    font-family: "游ゴシック-Medium";
     font-weight: 700;
     unicode-range: U+0021-007F;
     src: local("Inter Variable Text Bold"), local("Inter Bold");
 }
 
 @font-face {
-    font-family: "CustomYuGothicM";
+    font-family: "游ゴシック-Medium";
     font-weight: 800;
     unicode-range: U+0021-007F;
     src: local("Inter Variable Text ExtraBold"), local("Inter ExtraBold");
 }
 
 @font-face {
-    font-family: "CustomYuGothicM";
+    font-family: "游ゴシック-Medium";
     font-weight: 900;
     unicode-range: U+0021-007F;
     src: local("Inter Variable Text Black"), local("Inter Black");
 }
 
 @font-face {
-    font-family: "CustomYuGothicM";
+    font-family: "游ゴシック-Medium";
     font-weight: 100;
     font-style: italic;
     unicode-range: U+0021-007F;
@@ -3361,7 +5926,7 @@
 }
 
 @font-face {
-    font-family: "CustomYuGothicM";
+    font-family: "游ゴシック-Medium";
     font-weight: 200;
     font-style: italic;
     unicode-range: U+0021-007F;
@@ -3369,7 +5934,7 @@
 }
 
 @font-face {
-    font-family: "CustomYuGothicM";
+    font-family: "游ゴシック-Medium";
     font-weight: 300;
     font-style: italic;
     unicode-range: U+0021-007F;
@@ -3377,7 +5942,7 @@
 }
 
 @font-face {
-    font-family: "CustomYuGothicM";
+    font-family: "游ゴシック-Medium";
     font-weight: 400;
     font-style: italic;
     unicode-range: U+0021-007F;
@@ -3385,7 +5950,7 @@
 }
 
 @font-face {
-    font-family: "CustomYuGothicM";
+    font-family: "游ゴシック-Medium";
     font-weight: 500;
     font-style: italic;
     unicode-range: U+0021-007F;
@@ -3393,7 +5958,7 @@
 }
 
 @font-face {
-    font-family: "CustomYuGothicM";
+    font-family: "游ゴシック-Medium";
     font-weight: 600;
     font-style: italic;
     unicode-range: U+0021-007F;
@@ -3401,7 +5966,7 @@
 }
 
 @font-face {
-    font-family: "CustomYuGothicM";
+    font-family: "游ゴシック-Medium";
     font-weight: 700;
     font-style: italic;
     unicode-range: U+0021-007F;
@@ -3409,7 +5974,7 @@
 }
 
 @font-face {
-    font-family: "CustomYuGothicM";
+    font-family: "游ゴシック-Medium";
     font-weight: 800;
     font-style: italic;
     unicode-range: U+0021-007F;
@@ -3417,7 +5982,1717 @@
 }
 
 @font-face {
-    font-family: "CustomYuGothicM";
+    font-family: "游ゴシック-Medium";
+    font-weight: 900;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black Italic"), local("Inter Black Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic Bold";
+    font-weight: 100 200;
+    src: local("Source Han Sans JP ExtraLight");
+}
+
+@font-face {
+    font-family: "Yu Gothic Bold";
+    font-weight: 300;
+    src: local("Source Han Sans JP Light");
+}
+
+@font-face {
+    font-family: "Yu Gothic Bold";
+    font-weight: 400;
+    src: local("Source Han Sans JP"), local("Source Han Sans JP Normal");
+}
+
+@font-face {
+    font-family: "Yu Gothic Bold";
+    font-weight: 500 600;
+    src: local("Source Han Sans JP Medium");
+}
+
+@font-face {
+    font-family: "Yu Gothic Bold";
+    font-weight: 700;
+    src: local("Source Han Sans JP Bold");
+}
+
+@font-face {
+    font-family: "Yu Gothic Bold";
+    font-weight: 800 900;
+    src: local("Source Han Sans JP Heavy");
+}
+
+@font-face {
+    font-family: "Yu Gothic Bold";
+    font-weight: 100;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin"), local("Inter Thin");
+}
+
+@font-face {
+    font-family: "Yu Gothic Bold";
+    font-weight: 200;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight"), local("Inter ExtraLight");
+}
+
+@font-face {
+    font-family: "Yu Gothic Bold";
+    font-weight: 300;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light"), local("Inter Light");
+}
+
+@font-face {
+    font-family: "Yu Gothic Bold";
+    font-weight: 400;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text"), local("Inter Regular"), local("Inter");
+}
+
+@font-face {
+    font-family: "Yu Gothic Bold";
+    font-weight: 500;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium"), local("Inter Medium");
+}
+
+@font-face {
+    font-family: "Yu Gothic Bold";
+    font-weight: 600;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold"), local("Inter SemiBold");
+}
+
+@font-face {
+    font-family: "Yu Gothic Bold";
+    font-weight: 700;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold"), local("Inter Bold");
+}
+
+@font-face {
+    font-family: "Yu Gothic Bold";
+    font-weight: 800;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold"), local("Inter ExtraBold");
+}
+
+@font-face {
+    font-family: "Yu Gothic Bold";
+    font-weight: 900;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black"), local("Inter Black");
+}
+
+@font-face {
+    font-family: "Yu Gothic Bold";
+    font-weight: 100;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin Italic"), local("Inter Thin Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic Bold";
+    font-weight: 200;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight Italic"), local("Inter ExtraLight Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic Bold";
+    font-weight: 300;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light Italic"), local("Inter Light Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic Bold";
+    font-weight: 400;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Italic"), local("Inter Regular Italic"), local("Inter Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic Bold";
+    font-weight: 500;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium Italic"), local("Inter Medium Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic Bold";
+    font-weight: 600;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold Italic"), local("Inter SemiBold Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic Bold";
+    font-weight: 700;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold Italic"), local("Inter Bold Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic Bold";
+    font-weight: 800;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold Italic"), local("Inter ExtraBold Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic Bold";
+    font-weight: 900;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black Italic"), local("Inter Black Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Bold";
+    font-weight: 100 200;
+    src: local("Source Han Sans JP ExtraLight");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Bold";
+    font-weight: 300;
+    src: local("Source Han Sans JP Light");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Bold";
+    font-weight: 400;
+    src: local("Source Han Sans JP"), local("Source Han Sans JP Normal");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Bold";
+    font-weight: 500 600;
+    src: local("Source Han Sans JP Medium");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Bold";
+    font-weight: 700;
+    src: local("Source Han Sans JP Bold");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Bold";
+    font-weight: 800 900;
+    src: local("Source Han Sans JP Heavy");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Bold";
+    font-weight: 100;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin"), local("Inter Thin");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Bold";
+    font-weight: 200;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight"), local("Inter ExtraLight");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Bold";
+    font-weight: 300;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light"), local("Inter Light");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Bold";
+    font-weight: 400;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text"), local("Inter Regular"), local("Inter");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Bold";
+    font-weight: 500;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium"), local("Inter Medium");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Bold";
+    font-weight: 600;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold"), local("Inter SemiBold");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Bold";
+    font-weight: 700;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold"), local("Inter Bold");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Bold";
+    font-weight: 800;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold"), local("Inter ExtraBold");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Bold";
+    font-weight: 900;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black"), local("Inter Black");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Bold";
+    font-weight: 100;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin Italic"), local("Inter Thin Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Bold";
+    font-weight: 200;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight Italic"), local("Inter ExtraLight Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Bold";
+    font-weight: 300;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light Italic"), local("Inter Light Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Bold";
+    font-weight: 400;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Italic"), local("Inter Regular Italic"), local("Inter Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Bold";
+    font-weight: 500;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium Italic"), local("Inter Medium Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Bold";
+    font-weight: 600;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold Italic"), local("Inter SemiBold Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Bold";
+    font-weight: 700;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold Italic"), local("Inter Bold Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Bold";
+    font-weight: 800;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold Italic"), local("Inter ExtraBold Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic-Bold";
+    font-weight: 900;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black Italic"), local("Inter Black Italic");
+}
+
+@font-face {
+    font-family: "YuGothic Bold";
+    font-weight: 100 200;
+    src: local("Source Han Sans JP ExtraLight");
+}
+
+@font-face {
+    font-family: "YuGothic Bold";
+    font-weight: 300;
+    src: local("Source Han Sans JP Light");
+}
+
+@font-face {
+    font-family: "YuGothic Bold";
+    font-weight: 400;
+    src: local("Source Han Sans JP"), local("Source Han Sans JP Normal");
+}
+
+@font-face {
+    font-family: "YuGothic Bold";
+    font-weight: 500 600;
+    src: local("Source Han Sans JP Medium");
+}
+
+@font-face {
+    font-family: "YuGothic Bold";
+    font-weight: 700;
+    src: local("Source Han Sans JP Bold");
+}
+
+@font-face {
+    font-family: "YuGothic Bold";
+    font-weight: 800 900;
+    src: local("Source Han Sans JP Heavy");
+}
+
+@font-face {
+    font-family: "YuGothic Bold";
+    font-weight: 100;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin"), local("Inter Thin");
+}
+
+@font-face {
+    font-family: "YuGothic Bold";
+    font-weight: 200;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight"), local("Inter ExtraLight");
+}
+
+@font-face {
+    font-family: "YuGothic Bold";
+    font-weight: 300;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light"), local("Inter Light");
+}
+
+@font-face {
+    font-family: "YuGothic Bold";
+    font-weight: 400;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text"), local("Inter Regular"), local("Inter");
+}
+
+@font-face {
+    font-family: "YuGothic Bold";
+    font-weight: 500;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium"), local("Inter Medium");
+}
+
+@font-face {
+    font-family: "YuGothic Bold";
+    font-weight: 600;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold"), local("Inter SemiBold");
+}
+
+@font-face {
+    font-family: "YuGothic Bold";
+    font-weight: 700;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold"), local("Inter Bold");
+}
+
+@font-face {
+    font-family: "YuGothic Bold";
+    font-weight: 800;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold"), local("Inter ExtraBold");
+}
+
+@font-face {
+    font-family: "YuGothic Bold";
+    font-weight: 900;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black"), local("Inter Black");
+}
+
+@font-face {
+    font-family: "YuGothic Bold";
+    font-weight: 100;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin Italic"), local("Inter Thin Italic");
+}
+
+@font-face {
+    font-family: "YuGothic Bold";
+    font-weight: 200;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight Italic"), local("Inter ExtraLight Italic");
+}
+
+@font-face {
+    font-family: "YuGothic Bold";
+    font-weight: 300;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light Italic"), local("Inter Light Italic");
+}
+
+@font-face {
+    font-family: "YuGothic Bold";
+    font-weight: 400;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Italic"), local("Inter Regular Italic"), local("Inter Italic");
+}
+
+@font-face {
+    font-family: "YuGothic Bold";
+    font-weight: 500;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium Italic"), local("Inter Medium Italic");
+}
+
+@font-face {
+    font-family: "YuGothic Bold";
+    font-weight: 600;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold Italic"), local("Inter SemiBold Italic");
+}
+
+@font-face {
+    font-family: "YuGothic Bold";
+    font-weight: 700;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold Italic"), local("Inter Bold Italic");
+}
+
+@font-face {
+    font-family: "YuGothic Bold";
+    font-weight: 800;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold Italic"), local("Inter ExtraBold Italic");
+}
+
+@font-face {
+    font-family: "YuGothic Bold";
+    font-weight: 900;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black Italic"), local("Inter Black Italic");
+}
+
+@font-face {
+    font-family: "YuGothic-Bold";
+    font-weight: 100 200;
+    src: local("Source Han Sans JP ExtraLight");
+}
+
+@font-face {
+    font-family: "YuGothic-Bold";
+    font-weight: 300;
+    src: local("Source Han Sans JP Light");
+}
+
+@font-face {
+    font-family: "YuGothic-Bold";
+    font-weight: 400;
+    src: local("Source Han Sans JP"), local("Source Han Sans JP Normal");
+}
+
+@font-face {
+    font-family: "YuGothic-Bold";
+    font-weight: 500 600;
+    src: local("Source Han Sans JP Medium");
+}
+
+@font-face {
+    font-family: "YuGothic-Bold";
+    font-weight: 700;
+    src: local("Source Han Sans JP Bold");
+}
+
+@font-face {
+    font-family: "YuGothic-Bold";
+    font-weight: 800 900;
+    src: local("Source Han Sans JP Heavy");
+}
+
+@font-face {
+    font-family: "YuGothic-Bold";
+    font-weight: 100;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin"), local("Inter Thin");
+}
+
+@font-face {
+    font-family: "YuGothic-Bold";
+    font-weight: 200;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight"), local("Inter ExtraLight");
+}
+
+@font-face {
+    font-family: "YuGothic-Bold";
+    font-weight: 300;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light"), local("Inter Light");
+}
+
+@font-face {
+    font-family: "YuGothic-Bold";
+    font-weight: 400;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text"), local("Inter Regular"), local("Inter");
+}
+
+@font-face {
+    font-family: "YuGothic-Bold";
+    font-weight: 500;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium"), local("Inter Medium");
+}
+
+@font-face {
+    font-family: "YuGothic-Bold";
+    font-weight: 600;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold"), local("Inter SemiBold");
+}
+
+@font-face {
+    font-family: "YuGothic-Bold";
+    font-weight: 700;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold"), local("Inter Bold");
+}
+
+@font-face {
+    font-family: "YuGothic-Bold";
+    font-weight: 800;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold"), local("Inter ExtraBold");
+}
+
+@font-face {
+    font-family: "YuGothic-Bold";
+    font-weight: 900;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black"), local("Inter Black");
+}
+
+@font-face {
+    font-family: "YuGothic-Bold";
+    font-weight: 100;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin Italic"), local("Inter Thin Italic");
+}
+
+@font-face {
+    font-family: "YuGothic-Bold";
+    font-weight: 200;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight Italic"), local("Inter ExtraLight Italic");
+}
+
+@font-face {
+    font-family: "YuGothic-Bold";
+    font-weight: 300;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light Italic"), local("Inter Light Italic");
+}
+
+@font-face {
+    font-family: "YuGothic-Bold";
+    font-weight: 400;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Italic"), local("Inter Regular Italic"), local("Inter Italic");
+}
+
+@font-face {
+    font-family: "YuGothic-Bold";
+    font-weight: 500;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium Italic"), local("Inter Medium Italic");
+}
+
+@font-face {
+    font-family: "YuGothic-Bold";
+    font-weight: 600;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold Italic"), local("Inter SemiBold Italic");
+}
+
+@font-face {
+    font-family: "YuGothic-Bold";
+    font-weight: 700;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold Italic"), local("Inter Bold Italic");
+}
+
+@font-face {
+    font-family: "YuGothic-Bold";
+    font-weight: 800;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold Italic"), local("Inter ExtraBold Italic");
+}
+
+@font-face {
+    font-family: "YuGothic-Bold";
+    font-weight: 900;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black Italic"), local("Inter Black Italic");
+}
+
+@font-face {
+    font-family: "游ゴシック Bold";
+    font-weight: 100 200;
+    src: local("Source Han Sans JP ExtraLight");
+}
+
+@font-face {
+    font-family: "游ゴシック Bold";
+    font-weight: 300;
+    src: local("Source Han Sans JP Light");
+}
+
+@font-face {
+    font-family: "游ゴシック Bold";
+    font-weight: 400;
+    src: local("Source Han Sans JP"), local("Source Han Sans JP Normal");
+}
+
+@font-face {
+    font-family: "游ゴシック Bold";
+    font-weight: 500 600;
+    src: local("Source Han Sans JP Medium");
+}
+
+@font-face {
+    font-family: "游ゴシック Bold";
+    font-weight: 700;
+    src: local("Source Han Sans JP Bold");
+}
+
+@font-face {
+    font-family: "游ゴシック Bold";
+    font-weight: 800 900;
+    src: local("Source Han Sans JP Heavy");
+}
+
+@font-face {
+    font-family: "游ゴシック Bold";
+    font-weight: 100;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin"), local("Inter Thin");
+}
+
+@font-face {
+    font-family: "游ゴシック Bold";
+    font-weight: 200;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight"), local("Inter ExtraLight");
+}
+
+@font-face {
+    font-family: "游ゴシック Bold";
+    font-weight: 300;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light"), local("Inter Light");
+}
+
+@font-face {
+    font-family: "游ゴシック Bold";
+    font-weight: 400;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text"), local("Inter Regular"), local("Inter");
+}
+
+@font-face {
+    font-family: "游ゴシック Bold";
+    font-weight: 500;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium"), local("Inter Medium");
+}
+
+@font-face {
+    font-family: "游ゴシック Bold";
+    font-weight: 600;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold"), local("Inter SemiBold");
+}
+
+@font-face {
+    font-family: "游ゴシック Bold";
+    font-weight: 700;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold"), local("Inter Bold");
+}
+
+@font-face {
+    font-family: "游ゴシック Bold";
+    font-weight: 800;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold"), local("Inter ExtraBold");
+}
+
+@font-face {
+    font-family: "游ゴシック Bold";
+    font-weight: 900;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black"), local("Inter Black");
+}
+
+@font-face {
+    font-family: "游ゴシック Bold";
+    font-weight: 100;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin Italic"), local("Inter Thin Italic");
+}
+
+@font-face {
+    font-family: "游ゴシック Bold";
+    font-weight: 200;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight Italic"), local("Inter ExtraLight Italic");
+}
+
+@font-face {
+    font-family: "游ゴシック Bold";
+    font-weight: 300;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light Italic"), local("Inter Light Italic");
+}
+
+@font-face {
+    font-family: "游ゴシック Bold";
+    font-weight: 400;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Italic"), local("Inter Regular Italic"), local("Inter Italic");
+}
+
+@font-face {
+    font-family: "游ゴシック Bold";
+    font-weight: 500;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium Italic"), local("Inter Medium Italic");
+}
+
+@font-face {
+    font-family: "游ゴシック Bold";
+    font-weight: 600;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold Italic"), local("Inter SemiBold Italic");
+}
+
+@font-face {
+    font-family: "游ゴシック Bold";
+    font-weight: 700;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold Italic"), local("Inter Bold Italic");
+}
+
+@font-face {
+    font-family: "游ゴシック Bold";
+    font-weight: 800;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold Italic"), local("Inter ExtraBold Italic");
+}
+
+@font-face {
+    font-family: "游ゴシック Bold";
+    font-weight: 900;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black Italic"), local("Inter Black Italic");
+}
+
+@font-face {
+    font-family: "游ゴシック-Bold";
+    font-weight: 100 200;
+    src: local("Source Han Sans JP ExtraLight");
+}
+
+@font-face {
+    font-family: "游ゴシック-Bold";
+    font-weight: 300;
+    src: local("Source Han Sans JP Light");
+}
+
+@font-face {
+    font-family: "游ゴシック-Bold";
+    font-weight: 400;
+    src: local("Source Han Sans JP"), local("Source Han Sans JP Normal");
+}
+
+@font-face {
+    font-family: "游ゴシック-Bold";
+    font-weight: 500 600;
+    src: local("Source Han Sans JP Medium");
+}
+
+@font-face {
+    font-family: "游ゴシック-Bold";
+    font-weight: 700;
+    src: local("Source Han Sans JP Bold");
+}
+
+@font-face {
+    font-family: "游ゴシック-Bold";
+    font-weight: 800 900;
+    src: local("Source Han Sans JP Heavy");
+}
+
+@font-face {
+    font-family: "游ゴシック-Bold";
+    font-weight: 100;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin"), local("Inter Thin");
+}
+
+@font-face {
+    font-family: "游ゴシック-Bold";
+    font-weight: 200;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight"), local("Inter ExtraLight");
+}
+
+@font-face {
+    font-family: "游ゴシック-Bold";
+    font-weight: 300;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light"), local("Inter Light");
+}
+
+@font-face {
+    font-family: "游ゴシック-Bold";
+    font-weight: 400;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text"), local("Inter Regular"), local("Inter");
+}
+
+@font-face {
+    font-family: "游ゴシック-Bold";
+    font-weight: 500;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium"), local("Inter Medium");
+}
+
+@font-face {
+    font-family: "游ゴシック-Bold";
+    font-weight: 600;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold"), local("Inter SemiBold");
+}
+
+@font-face {
+    font-family: "游ゴシック-Bold";
+    font-weight: 700;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold"), local("Inter Bold");
+}
+
+@font-face {
+    font-family: "游ゴシック-Bold";
+    font-weight: 800;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold"), local("Inter ExtraBold");
+}
+
+@font-face {
+    font-family: "游ゴシック-Bold";
+    font-weight: 900;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black"), local("Inter Black");
+}
+
+@font-face {
+    font-family: "游ゴシック-Bold";
+    font-weight: 100;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin Italic"), local("Inter Thin Italic");
+}
+
+@font-face {
+    font-family: "游ゴシック-Bold";
+    font-weight: 200;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight Italic"), local("Inter ExtraLight Italic");
+}
+
+@font-face {
+    font-family: "游ゴシック-Bold";
+    font-weight: 300;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light Italic"), local("Inter Light Italic");
+}
+
+@font-face {
+    font-family: "游ゴシック-Bold";
+    font-weight: 400;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Italic"), local("Inter Regular Italic"), local("Inter Italic");
+}
+
+@font-face {
+    font-family: "游ゴシック-Bold";
+    font-weight: 500;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium Italic"), local("Inter Medium Italic");
+}
+
+@font-face {
+    font-family: "游ゴシック-Bold";
+    font-weight: 600;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold Italic"), local("Inter SemiBold Italic");
+}
+
+@font-face {
+    font-family: "游ゴシック-Bold";
+    font-weight: 700;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold Italic"), local("Inter Bold Italic");
+}
+
+@font-face {
+    font-family: "游ゴシック-Bold";
+    font-weight: 800;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold Italic"), local("Inter ExtraBold Italic");
+}
+
+@font-face {
+    font-family: "游ゴシック-Bold";
+    font-weight: 900;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black Italic"), local("Inter Black Italic");
+}
+
+@font-face {
+    font-family: "游ゴシック UI";
+    font-weight: 100 200;
+    src: local("Source Han Sans JP ExtraLight");
+}
+
+@font-face {
+    font-family: "游ゴシック UI";
+    font-weight: 300;
+    src: local("Source Han Sans JP Light");
+}
+
+@font-face {
+    font-family: "游ゴシック UI";
+    font-weight: 400;
+    src: local("Source Han Sans JP"), local("Source Han Sans JP Normal");
+}
+
+@font-face {
+    font-family: "游ゴシック UI";
+    font-weight: 500 600;
+    src: local("Source Han Sans JP Medium");
+}
+
+@font-face {
+    font-family: "游ゴシック UI";
+    font-weight: 700;
+    src: local("Source Han Sans JP Bold");
+}
+
+@font-face {
+    font-family: "游ゴシック UI";
+    font-weight: 800 900;
+    src: local("Source Han Sans JP Heavy");
+}
+
+@font-face {
+    font-family: "游ゴシック UI";
+    font-weight: 100;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin"), local("Inter Thin");
+}
+
+@font-face {
+    font-family: "游ゴシック UI";
+    font-weight: 200;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight"), local("Inter ExtraLight");
+}
+
+@font-face {
+    font-family: "游ゴシック UI";
+    font-weight: 300;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light"), local("Inter Light");
+}
+
+@font-face {
+    font-family: "游ゴシック UI";
+    font-weight: 400;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text"), local("Inter Regular"), local("Inter");
+}
+
+@font-face {
+    font-family: "游ゴシック UI";
+    font-weight: 500;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium"), local("Inter Medium");
+}
+
+@font-face {
+    font-family: "游ゴシック UI";
+    font-weight: 600;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold"), local("Inter SemiBold");
+}
+
+@font-face {
+    font-family: "游ゴシック UI";
+    font-weight: 700;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold"), local("Inter Bold");
+}
+
+@font-face {
+    font-family: "游ゴシック UI";
+    font-weight: 800;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold"), local("Inter ExtraBold");
+}
+
+@font-face {
+    font-family: "游ゴシック UI";
+    font-weight: 900;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black"), local("Inter Black");
+}
+
+@font-face {
+    font-family: "游ゴシック UI";
+    font-weight: 100;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin Italic"), local("Inter Thin Italic");
+}
+
+@font-face {
+    font-family: "游ゴシック UI";
+    font-weight: 200;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight Italic"), local("Inter ExtraLight Italic");
+}
+
+@font-face {
+    font-family: "游ゴシック UI";
+    font-weight: 300;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light Italic"), local("Inter Light Italic");
+}
+
+@font-face {
+    font-family: "游ゴシック UI";
+    font-weight: 400;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Italic"), local("Inter Regular Italic"), local("Inter Italic");
+}
+
+@font-face {
+    font-family: "游ゴシック UI";
+    font-weight: 500;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium Italic"), local("Inter Medium Italic");
+}
+
+@font-face {
+    font-family: "游ゴシック UI";
+    font-weight: 600;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold Italic"), local("Inter SemiBold Italic");
+}
+
+@font-face {
+    font-family: "游ゴシック UI";
+    font-weight: 700;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold Italic"), local("Inter Bold Italic");
+}
+
+@font-face {
+    font-family: "游ゴシック UI";
+    font-weight: 800;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold Italic"), local("Inter ExtraBold Italic");
+}
+
+@font-face {
+    font-family: "游ゴシック UI";
+    font-weight: 900;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black Italic"), local("Inter Black Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic UI";
+    font-weight: 100 200;
+    src: local("Source Han Sans JP ExtraLight");
+}
+
+@font-face {
+    font-family: "Yu Gothic UI";
+    font-weight: 300;
+    src: local("Source Han Sans JP Light");
+}
+
+@font-face {
+    font-family: "Yu Gothic UI";
+    font-weight: 400;
+    src: local("Source Han Sans JP"), local("Source Han Sans JP Normal");
+}
+
+@font-face {
+    font-family: "Yu Gothic UI";
+    font-weight: 500 600;
+    src: local("Source Han Sans JP Medium");
+}
+
+@font-face {
+    font-family: "Yu Gothic UI";
+    font-weight: 700;
+    src: local("Source Han Sans JP Bold");
+}
+
+@font-face {
+    font-family: "Yu Gothic UI";
+    font-weight: 800 900;
+    src: local("Source Han Sans JP Heavy");
+}
+
+@font-face {
+    font-family: "Yu Gothic UI";
+    font-weight: 100;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin"), local("Inter Thin");
+}
+
+@font-face {
+    font-family: "Yu Gothic UI";
+    font-weight: 200;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight"), local("Inter ExtraLight");
+}
+
+@font-face {
+    font-family: "Yu Gothic UI";
+    font-weight: 300;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light"), local("Inter Light");
+}
+
+@font-face {
+    font-family: "Yu Gothic UI";
+    font-weight: 400;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text"), local("Inter Regular"), local("Inter");
+}
+
+@font-face {
+    font-family: "Yu Gothic UI";
+    font-weight: 500;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium"), local("Inter Medium");
+}
+
+@font-face {
+    font-family: "Yu Gothic UI";
+    font-weight: 600;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold"), local("Inter SemiBold");
+}
+
+@font-face {
+    font-family: "Yu Gothic UI";
+    font-weight: 700;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold"), local("Inter Bold");
+}
+
+@font-face {
+    font-family: "Yu Gothic UI";
+    font-weight: 800;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold"), local("Inter ExtraBold");
+}
+
+@font-face {
+    font-family: "Yu Gothic UI";
+    font-weight: 900;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black"), local("Inter Black");
+}
+
+@font-face {
+    font-family: "Yu Gothic UI";
+    font-weight: 100;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin Italic"), local("Inter Thin Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic UI";
+    font-weight: 200;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight Italic"), local("Inter ExtraLight Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic UI";
+    font-weight: 300;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light Italic"), local("Inter Light Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic UI";
+    font-weight: 400;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Italic"), local("Inter Regular Italic"), local("Inter Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic UI";
+    font-weight: 500;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium Italic"), local("Inter Medium Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic UI";
+    font-weight: 600;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold Italic"), local("Inter SemiBold Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic UI";
+    font-weight: 700;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold Italic"), local("Inter Bold Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic UI";
+    font-weight: 800;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold Italic"), local("Inter ExtraBold Italic");
+}
+
+@font-face {
+    font-family: "Yu Gothic UI";
+    font-weight: 900;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black Italic"), local("Inter Black Italic");
+}
+
+@font-face {
+    font-family: "YuGothic UI";
+    font-weight: 100 200;
+    src: local("Source Han Sans JP ExtraLight");
+}
+
+@font-face {
+    font-family: "YuGothic UI";
+    font-weight: 300;
+    src: local("Source Han Sans JP Light");
+}
+
+@font-face {
+    font-family: "YuGothic UI";
+    font-weight: 400;
+    src: local("Source Han Sans JP"), local("Source Han Sans JP Normal");
+}
+
+@font-face {
+    font-family: "YuGothic UI";
+    font-weight: 500 600;
+    src: local("Source Han Sans JP Medium");
+}
+
+@font-face {
+    font-family: "YuGothic UI";
+    font-weight: 700;
+    src: local("Source Han Sans JP Bold");
+}
+
+@font-face {
+    font-family: "YuGothic UI";
+    font-weight: 800 900;
+    src: local("Source Han Sans JP Heavy");
+}
+
+@font-face {
+    font-family: "YuGothic UI";
+    font-weight: 100;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin"), local("Inter Thin");
+}
+
+@font-face {
+    font-family: "YuGothic UI";
+    font-weight: 200;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight"), local("Inter ExtraLight");
+}
+
+@font-face {
+    font-family: "YuGothic UI";
+    font-weight: 300;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light"), local("Inter Light");
+}
+
+@font-face {
+    font-family: "YuGothic UI";
+    font-weight: 400;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text"), local("Inter Regular"), local("Inter");
+}
+
+@font-face {
+    font-family: "YuGothic UI";
+    font-weight: 500;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium"), local("Inter Medium");
+}
+
+@font-face {
+    font-family: "YuGothic UI";
+    font-weight: 600;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold"), local("Inter SemiBold");
+}
+
+@font-face {
+    font-family: "YuGothic UI";
+    font-weight: 700;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold"), local("Inter Bold");
+}
+
+@font-face {
+    font-family: "YuGothic UI";
+    font-weight: 800;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold"), local("Inter ExtraBold");
+}
+
+@font-face {
+    font-family: "YuGothic UI";
+    font-weight: 900;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black"), local("Inter Black");
+}
+
+@font-face {
+    font-family: "YuGothic UI";
+    font-weight: 100;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin Italic"), local("Inter Thin Italic");
+}
+
+@font-face {
+    font-family: "YuGothic UI";
+    font-weight: 200;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight Italic"), local("Inter ExtraLight Italic");
+}
+
+@font-face {
+    font-family: "YuGothic UI";
+    font-weight: 300;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light Italic"), local("Inter Light Italic");
+}
+
+@font-face {
+    font-family: "YuGothic UI";
+    font-weight: 400;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Italic"), local("Inter Regular Italic"), local("Inter Italic");
+}
+
+@font-face {
+    font-family: "YuGothic UI";
+    font-weight: 500;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium Italic"), local("Inter Medium Italic");
+}
+
+@font-face {
+    font-family: "YuGothic UI";
+    font-weight: 600;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold Italic"), local("Inter SemiBold Italic");
+}
+
+@font-face {
+    font-family: "YuGothic UI";
+    font-weight: 700;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold Italic"), local("Inter Bold Italic");
+}
+
+@font-face {
+    font-family: "YuGothic UI";
+    font-weight: 800;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold Italic"), local("Inter ExtraBold Italic");
+}
+
+@font-face {
+    font-family: "YuGothic UI";
+    font-weight: 900;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black Italic"), local("Inter Black Italic");
+}
+
+@font-face {
+    font-family: "YuGothicUI";
+    font-weight: 100 200;
+    src: local("Source Han Sans JP ExtraLight");
+}
+
+@font-face {
+    font-family: "YuGothicUI";
+    font-weight: 300;
+    src: local("Source Han Sans JP Light");
+}
+
+@font-face {
+    font-family: "YuGothicUI";
+    font-weight: 400;
+    src: local("Source Han Sans JP"), local("Source Han Sans JP Normal");
+}
+
+@font-face {
+    font-family: "YuGothicUI";
+    font-weight: 500 600;
+    src: local("Source Han Sans JP Medium");
+}
+
+@font-face {
+    font-family: "YuGothicUI";
+    font-weight: 700;
+    src: local("Source Han Sans JP Bold");
+}
+
+@font-face {
+    font-family: "YuGothicUI";
+    font-weight: 800 900;
+    src: local("Source Han Sans JP Heavy");
+}
+
+@font-face {
+    font-family: "YuGothicUI";
+    font-weight: 100;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin"), local("Inter Thin");
+}
+
+@font-face {
+    font-family: "YuGothicUI";
+    font-weight: 200;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight"), local("Inter ExtraLight");
+}
+
+@font-face {
+    font-family: "YuGothicUI";
+    font-weight: 300;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light"), local("Inter Light");
+}
+
+@font-face {
+    font-family: "YuGothicUI";
+    font-weight: 400;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text"), local("Inter Regular"), local("Inter");
+}
+
+@font-face {
+    font-family: "YuGothicUI";
+    font-weight: 500;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium"), local("Inter Medium");
+}
+
+@font-face {
+    font-family: "YuGothicUI";
+    font-weight: 600;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold"), local("Inter SemiBold");
+}
+
+@font-face {
+    font-family: "YuGothicUI";
+    font-weight: 700;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold"), local("Inter Bold");
+}
+
+@font-face {
+    font-family: "YuGothicUI";
+    font-weight: 800;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold"), local("Inter ExtraBold");
+}
+
+@font-face {
+    font-family: "YuGothicUI";
+    font-weight: 900;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black"), local("Inter Black");
+}
+
+@font-face {
+    font-family: "YuGothicUI";
+    font-weight: 100;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin Italic"), local("Inter Thin Italic");
+}
+
+@font-face {
+    font-family: "YuGothicUI";
+    font-weight: 200;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight Italic"), local("Inter ExtraLight Italic");
+}
+
+@font-face {
+    font-family: "YuGothicUI";
+    font-weight: 300;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light Italic"), local("Inter Light Italic");
+}
+
+@font-face {
+    font-family: "YuGothicUI";
+    font-weight: 400;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Italic"), local("Inter Regular Italic"), local("Inter Italic");
+}
+
+@font-face {
+    font-family: "YuGothicUI";
+    font-weight: 500;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium Italic"), local("Inter Medium Italic");
+}
+
+@font-face {
+    font-family: "YuGothicUI";
+    font-weight: 600;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold Italic"), local("Inter SemiBold Italic");
+}
+
+@font-face {
+    font-family: "YuGothicUI";
+    font-weight: 700;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold Italic"), local("Inter Bold Italic");
+}
+
+@font-face {
+    font-family: "YuGothicUI";
+    font-weight: 800;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold Italic"), local("Inter ExtraBold Italic");
+}
+
+@font-face {
+    font-family: "YuGothicUI";
     font-weight: 900;
     font-style: italic;
     unicode-range: U+0021-007F;
@@ -4451,6 +8726,177 @@
 }
 
 @font-face {
+    font-family: "Noto Sans JP";
+    font-weight: 100 200;
+    src: local("Source Han Sans JP ExtraLight");
+}
+
+@font-face {
+    font-family: "Noto Sans JP";
+    font-weight: 300;
+    src: local("Source Han Sans JP Light");
+}
+
+@font-face {
+    font-family: "Noto Sans JP";
+    font-weight: 400;
+    src: local("Source Han Sans JP"), local("Source Han Sans JP Normal");
+}
+
+@font-face {
+    font-family: "Noto Sans JP";
+    font-weight: 500 600;
+    src: local("Source Han Sans JP Medium");
+}
+
+@font-face {
+    font-family: "Noto Sans JP";
+    font-weight: 700;
+    src: local("Source Han Sans JP Bold");
+}
+
+@font-face {
+    font-family: "Noto Sans JP";
+    font-weight: 800 900;
+    src: local("Source Han Sans JP Heavy");
+}
+
+@font-face {
+    font-family: "Noto Sans JP";
+    font-weight: 100;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin"), local("Inter Thin");
+}
+
+@font-face {
+    font-family: "Noto Sans JP";
+    font-weight: 200;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight"), local("Inter ExtraLight");
+}
+
+@font-face {
+    font-family: "Noto Sans JP";
+    font-weight: 300;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light"), local("Inter Light");
+}
+
+@font-face {
+    font-family: "Noto Sans JP";
+    font-weight: 400;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text"), local("Inter Regular"), local("Inter");
+}
+
+@font-face {
+    font-family: "Noto Sans JP";
+    font-weight: 500;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium"), local("Inter Medium");
+}
+
+@font-face {
+    font-family: "Noto Sans JP";
+    font-weight: 600;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold"), local("Inter SemiBold");
+}
+
+@font-face {
+    font-family: "Noto Sans JP";
+    font-weight: 700;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold"), local("Inter Bold");
+}
+
+@font-face {
+    font-family: "Noto Sans JP";
+    font-weight: 800;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold"), local("Inter ExtraBold");
+}
+
+@font-face {
+    font-family: "Noto Sans JP";
+    font-weight: 900;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black"), local("Inter Black");
+}
+
+@font-face {
+    font-family: "Noto Sans JP";
+    font-weight: 100;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Thin Italic"), local("Inter Thin Italic");
+}
+
+@font-face {
+    font-family: "Noto Sans JP";
+    font-weight: 200;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraLight Italic"), local("Inter ExtraLight Italic");
+}
+
+@font-face {
+    font-family: "Noto Sans JP";
+    font-weight: 300;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Light Italic"), local("Inter Light Italic");
+}
+
+@font-face {
+    font-family: "Noto Sans JP";
+    font-weight: 400;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Italic"), local("Inter Regular Italic"), local("Inter Italic");
+}
+
+@font-face {
+    font-family: "Noto Sans JP";
+    font-weight: 500;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Medium Italic"), local("Inter Medium Italic");
+}
+
+@font-face {
+    font-family: "Noto Sans JP";
+    font-weight: 600;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text SemiBold Italic"), local("Inter SemiBold Italic");
+}
+
+@font-face {
+    font-family: "Noto Sans JP";
+    font-weight: 700;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Bold Italic"), local("Inter Bold Italic");
+}
+
+@font-face {
+    font-family: "Noto Sans JP";
+    font-weight: 800;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text ExtraBold Italic"), local("Inter ExtraBold Italic");
+}
+
+@font-face {
+    font-family: "Noto Sans JP";
+    font-weight: 900;
+    font-style: italic;
+    unicode-range: U+0021-007F;
+    src: local("Inter Variable Text Black Italic"), local("Inter Black Italic");
+}
+
+@font-face {
     font-family: "-apple-system";
     font-weight: 100 200;
     src: local("Source Han Sans JP ExtraLight");
@@ -4964,177 +9410,6 @@
 }
 
 @font-face {
-    font-family: "MyYuGothicM";
-    font-weight: 100 200;
-    src: local("Source Han Sans JP ExtraLight");
-}
-
-@font-face {
-    font-family: "MyYuGothicM";
-    font-weight: 300;
-    src: local("Source Han Sans JP Light");
-}
-
-@font-face {
-    font-family: "MyYuGothicM";
-    font-weight: 400;
-    src: local("Source Han Sans JP"), local("Source Han Sans JP Normal");
-}
-
-@font-face {
-    font-family: "MyYuGothicM";
-    font-weight: 500 600;
-    src: local("Source Han Sans JP Medium");
-}
-
-@font-face {
-    font-family: "MyYuGothicM";
-    font-weight: 700;
-    src: local("Source Han Sans JP Bold");
-}
-
-@font-face {
-    font-family: "MyYuGothicM";
-    font-weight: 800 900;
-    src: local("Source Han Sans JP Heavy");
-}
-
-@font-face {
-    font-family: "MyYuGothicM";
-    font-weight: 100;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Thin"), local("Inter Thin");
-}
-
-@font-face {
-    font-family: "MyYuGothicM";
-    font-weight: 200;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text ExtraLight"), local("Inter ExtraLight");
-}
-
-@font-face {
-    font-family: "MyYuGothicM";
-    font-weight: 300;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Light"), local("Inter Light");
-}
-
-@font-face {
-    font-family: "MyYuGothicM";
-    font-weight: 400;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text"), local("Inter Regular"), local("Inter");
-}
-
-@font-face {
-    font-family: "MyYuGothicM";
-    font-weight: 500;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Medium"), local("Inter Medium");
-}
-
-@font-face {
-    font-family: "MyYuGothicM";
-    font-weight: 600;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text SemiBold"), local("Inter SemiBold");
-}
-
-@font-face {
-    font-family: "MyYuGothicM";
-    font-weight: 700;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Bold"), local("Inter Bold");
-}
-
-@font-face {
-    font-family: "MyYuGothicM";
-    font-weight: 800;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text ExtraBold"), local("Inter ExtraBold");
-}
-
-@font-face {
-    font-family: "MyYuGothicM";
-    font-weight: 900;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Black"), local("Inter Black");
-}
-
-@font-face {
-    font-family: "MyYuGothicM";
-    font-weight: 100;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Thin Italic"), local("Inter Thin Italic");
-}
-
-@font-face {
-    font-family: "MyYuGothicM";
-    font-weight: 200;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text ExtraLight Italic"), local("Inter ExtraLight Italic");
-}
-
-@font-face {
-    font-family: "MyYuGothicM";
-    font-weight: 300;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Light Italic"), local("Inter Light Italic");
-}
-
-@font-face {
-    font-family: "MyYuGothicM";
-    font-weight: 400;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Italic"), local("Inter Regular Italic"), local("Inter Italic");
-}
-
-@font-face {
-    font-family: "MyYuGothicM";
-    font-weight: 500;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Medium Italic"), local("Inter Medium Italic");
-}
-
-@font-face {
-    font-family: "MyYuGothicM";
-    font-weight: 600;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text SemiBold Italic"), local("Inter SemiBold Italic");
-}
-
-@font-face {
-    font-family: "MyYuGothicM";
-    font-weight: 700;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Bold Italic"), local("Inter Bold Italic");
-}
-
-@font-face {
-    font-family: "MyYuGothicM";
-    font-weight: 800;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text ExtraBold Italic"), local("Inter ExtraBold Italic");
-}
-
-@font-face {
-    font-family: "MyYuGothicM";
-    font-weight: 900;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Black Italic"), local("Inter Black Italic");
-}
-
-@font-face {
     font-family: "system-ui";
     font-weight: 100 200;
     src: local("Source Han Sans JP ExtraLight");
@@ -5983,177 +10258,6 @@
 
 @font-face {
     font-family: "X-LocaleSpecific-Extrabold";
-    font-weight: 900;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Black Italic"), local("Inter Black Italic");
-}
-
-@font-face {
-    font-family: "Noto Sans JP";
-    font-weight: 100 200;
-    src: local("Source Han Sans JP ExtraLight");
-}
-
-@font-face {
-    font-family: "Noto Sans JP";
-    font-weight: 300;
-    src: local("Source Han Sans JP Light");
-}
-
-@font-face {
-    font-family: "Noto Sans JP";
-    font-weight: 400;
-    src: local("Source Han Sans JP"), local("Source Han Sans JP Normal");
-}
-
-@font-face {
-    font-family: "Noto Sans JP";
-    font-weight: 500 600;
-    src: local("Source Han Sans JP Medium");
-}
-
-@font-face {
-    font-family: "Noto Sans JP";
-    font-weight: 700;
-    src: local("Source Han Sans JP Bold");
-}
-
-@font-face {
-    font-family: "Noto Sans JP";
-    font-weight: 800 900;
-    src: local("Source Han Sans JP Heavy");
-}
-
-@font-face {
-    font-family: "Noto Sans JP";
-    font-weight: 100;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Thin"), local("Inter Thin");
-}
-
-@font-face {
-    font-family: "Noto Sans JP";
-    font-weight: 200;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text ExtraLight"), local("Inter ExtraLight");
-}
-
-@font-face {
-    font-family: "Noto Sans JP";
-    font-weight: 300;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Light"), local("Inter Light");
-}
-
-@font-face {
-    font-family: "Noto Sans JP";
-    font-weight: 400;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text"), local("Inter Regular"), local("Inter");
-}
-
-@font-face {
-    font-family: "Noto Sans JP";
-    font-weight: 500;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Medium"), local("Inter Medium");
-}
-
-@font-face {
-    font-family: "Noto Sans JP";
-    font-weight: 600;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text SemiBold"), local("Inter SemiBold");
-}
-
-@font-face {
-    font-family: "Noto Sans JP";
-    font-weight: 700;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Bold"), local("Inter Bold");
-}
-
-@font-face {
-    font-family: "Noto Sans JP";
-    font-weight: 800;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text ExtraBold"), local("Inter ExtraBold");
-}
-
-@font-face {
-    font-family: "Noto Sans JP";
-    font-weight: 900;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Black"), local("Inter Black");
-}
-
-@font-face {
-    font-family: "Noto Sans JP";
-    font-weight: 100;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Thin Italic"), local("Inter Thin Italic");
-}
-
-@font-face {
-    font-family: "Noto Sans JP";
-    font-weight: 200;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text ExtraLight Italic"), local("Inter ExtraLight Italic");
-}
-
-@font-face {
-    font-family: "Noto Sans JP";
-    font-weight: 300;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Light Italic"), local("Inter Light Italic");
-}
-
-@font-face {
-    font-family: "Noto Sans JP";
-    font-weight: 400;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Italic"), local("Inter Regular Italic"), local("Inter Italic");
-}
-
-@font-face {
-    font-family: "Noto Sans JP";
-    font-weight: 500;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Medium Italic"), local("Inter Medium Italic");
-}
-
-@font-face {
-    font-family: "Noto Sans JP";
-    font-weight: 600;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text SemiBold Italic"), local("Inter SemiBold Italic");
-}
-
-@font-face {
-    font-family: "Noto Sans JP";
-    font-weight: 700;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text Bold Italic"), local("Inter Bold Italic");
-}
-
-@font-face {
-    font-family: "Noto Sans JP";
-    font-weight: 800;
-    font-style: italic;
-    unicode-range: U+0021-007F;
-    src: local("Inter Variable Text ExtraBold Italic"), local("Inter ExtraBold Italic");
-}
-
-@font-face {
-    font-family: "Noto Sans JP";
     font-weight: 900;
     font-style: italic;
     unicode-range: U+0021-007F;
