@@ -7,6 +7,7 @@ rules:
       - MS Pゴシック
       - ＭＳ Ｐゴシック
       - MS UI Gothic
+      - MS UIゴシック
       # メイリオ
       - Meiryo
       - メイリオ
@@ -15,6 +16,7 @@ rules:
       # 游ゴシック
       - Yu Gothic
       - YuGothic
+      - YuGothic-Regular
       - 游ゴシック
       - Original Yu Gothic
       - CustomYuGothicM
@@ -62,11 +64,13 @@ rules:
       - UD Digi Kyokasho NP-B
       - Microsoft YaHei
       - Microsoft YaHei UI
+      - Osaka
+      - MicrosoftJhengHeiRegular
+      - 微軟正黑體
       - Noto Sans JP
       # 特殊フォント
       - -apple-system
       - BlinkMacSystemFont
-      - CustomHiraginoSans
       - system-ui
       - ui-sans-serif
       - X-LocaleSpecific
@@ -201,6 +205,10 @@ rules:
       - Arial
       - Helvetica
       - Helvetica Neue
+      - Lucida Grande
+      - Lucida Sans Unicode
+      - Open Sans
+      - Roboto
       - Segoe UI
       - Tahoma
       - Titillium Text
@@ -294,8 +302,10 @@ rules:
         style: italic
   - description: serif
     fontFamilies:
+      - MS P明朝
       - ＭＳ Ｐ明朝
       - MS PMincho
+      - MS 明朝
       - ＭＳ 明朝
       - MS Mincho
       - HGS明朝E
@@ -332,12 +342,19 @@ rules:
       - ＭＳ ゴシック
       - BIZ UDゴシック
       - BIZ UDGothic
+      - Andale Mono
       - Consolas
       - Courier
+      - Courier New
       - Liberation Mono
       - Lucida Console
       - Menlo
       - Monaco
+      - Roboto Mono
+      - Segoe UI Mono
+      - SF Mono
+      - SFMono-Medium
+      - Ubuntu Mono
       - ui-monospace
     sources:
       - fullNames:
