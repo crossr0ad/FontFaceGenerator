@@ -12347,6 +12347,123 @@
 }
 
 @font-face {
+    font-family: "Trebuchet MS";
+    font-weight: 100;
+    src: local("Inter Variable Text Thin"), local("Inter Thin");
+}
+
+@font-face {
+    font-family: "Trebuchet MS";
+    font-weight: 200;
+    src: local("Inter Variable Text ExtraLight"), local("Inter ExtraLight");
+}
+
+@font-face {
+    font-family: "Trebuchet MS";
+    font-weight: 300;
+    src: local("Inter Variable Text Light"), local("Inter Light");
+}
+
+@font-face {
+    font-family: "Trebuchet MS";
+    font-weight: 400;
+    src: local("Inter Variable Text"), local("Inter Regular"), local("Inter");
+}
+
+@font-face {
+    font-family: "Trebuchet MS";
+    font-weight: 500;
+    src: local("Inter Variable Text Medium"), local("Inter Medium");
+}
+
+@font-face {
+    font-family: "Trebuchet MS";
+    font-weight: 600;
+    src: local("Inter Variable Text SemiBold"), local("Inter SemiBold");
+}
+
+@font-face {
+    font-family: "Trebuchet MS";
+    font-weight: 700;
+    src: local("Inter Variable Text Bold"), local("Inter Bold");
+}
+
+@font-face {
+    font-family: "Trebuchet MS";
+    font-weight: 800;
+    src: local("Inter Variable Text ExtraBold"), local("Inter ExtraBold");
+}
+
+@font-face {
+    font-family: "Trebuchet MS";
+    font-weight: 900;
+    src: local("Inter Variable Text Black"), local("Inter Black");
+}
+
+@font-face {
+    font-family: "Trebuchet MS";
+    font-weight: 100;
+    font-style: italic;
+    src: local("Inter Variable Text Thin Italic"), local("Inter Thin Italic");
+}
+
+@font-face {
+    font-family: "Trebuchet MS";
+    font-weight: 200;
+    font-style: italic;
+    src: local("Inter Variable Text ExtraLight Italic"), local("Inter ExtraLight Italic");
+}
+
+@font-face {
+    font-family: "Trebuchet MS";
+    font-weight: 300;
+    font-style: italic;
+    src: local("Inter Variable Text Light Italic"), local("Inter Light Italic");
+}
+
+@font-face {
+    font-family: "Trebuchet MS";
+    font-weight: 400;
+    font-style: italic;
+    src: local("Inter Variable Text Italic"), local("Inter Regular Italic"), local("Inter Italic");
+}
+
+@font-face {
+    font-family: "Trebuchet MS";
+    font-weight: 500;
+    font-style: italic;
+    src: local("Inter Variable Text Medium Italic"), local("Inter Medium Italic");
+}
+
+@font-face {
+    font-family: "Trebuchet MS";
+    font-weight: 600;
+    font-style: italic;
+    src: local("Inter Variable Text SemiBold Italic"), local("Inter SemiBold Italic");
+}
+
+@font-face {
+    font-family: "Trebuchet MS";
+    font-weight: 700;
+    font-style: italic;
+    src: local("Inter Variable Text Bold Italic"), local("Inter Bold Italic");
+}
+
+@font-face {
+    font-family: "Trebuchet MS";
+    font-weight: 800;
+    font-style: italic;
+    src: local("Inter Variable Text ExtraBold Italic"), local("Inter ExtraBold Italic");
+}
+
+@font-face {
+    font-family: "Trebuchet MS";
+    font-weight: 900;
+    font-style: italic;
+    src: local("Inter Variable Text Black Italic"), local("Inter Black Italic");
+}
+
+@font-face {
     font-family: "Verdana";
     font-weight: 100;
     src: local("Inter Variable Text Thin"), local("Inter Thin");

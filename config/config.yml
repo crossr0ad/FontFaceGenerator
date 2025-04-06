@@ -214,6 +214,7 @@ rules:
       - Titillium Text
       - Titillium Web
       - TitilliumText22LRegular
+      - Trebuchet MS
       - Verdana
     sources:
       - fullNames:
