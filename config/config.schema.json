@@ -1,78 +1,75 @@
 {
-  "$schema": "https://json-schema.org/draft-07/schema#",
-  "type": "object",
-  "properties": {
-    "rules": {
-      "type": "array",
-      "items": {
-        "$ref": "#/$defs/rule"
-      },
-      "uniqueItems": true
-    }
-  },
-  "required": [
-    "rules"
-  ],
-  "additionalProperties": false,
-  "$defs": {
-    "rule": {
-      "type": "object",
-      "properties": {
-        "description": {
-          "tyoe": "string"
-        },
-        "fontFamilies": {
-          "type": "array",
-          "items": {
-            "type": "string"
-          },
-          "uniqueItems": true
-        },
-        "sources": {
-          "type": "array",
-          "description": "後勝ちになるので、英字フォントを適宜適用したい場合は、後ろに unicode-range 指定で書く",
-          "items": {
-            "$ref": "#/$defs/source"
-          },
-          "uniqueItems": true
-        }
-      },
-      "required": [
-        "fontFamilies",
-        "sources"
-      ],
-      "additionalProperties": false
-    },
-    "source": {
-      "type": "object",
-      "properties": {
-        "fullNames": {
-          "type": "array",
-          "items": {
-            "type": "string"
-          }
-        },
-        "weight": {
-          "oneOf": [
-            {
-              "type": "integer"
-            },
-            {
-              "type": "string"
-            }
-          ]
-        },
-        "style": {
-          "type": "string"
-        },
-        "unicode_range": {
-          "type": "string"
-        }
-      },
-      "required": [
-        "fullNames"
-      ],
-      "additionalProperties": false
-    }
-  }
+	"$schema": "https://json-schema.org/draft-07/schema#",
+	"type": "object",
+	"properties": {
+		"rules": {
+			"type": "array",
+			"items": {
+				"$ref": "#/$defs/rule"
+			},
+			"uniqueItems": true
+		}
+	},
+	"required": ["rules"],
+	"additionalProperties": false,
+	"$defs": {
+		"rule": {
+			"type": "object",
+			"properties": {
+				"description": {
+					"tyoe": "string"
+				},
+				"fontFamilies": {
+					"type": "array",
+					"items": {
+						"type": "string"
+					},
+					"uniqueItems": true
+				},
+				"sources": {
+					"type": "array",
+					"description": "後勝ちになるので、英字フォントを適宜適用したい場合は、後ろに unicode-range 指定で書く",
+					"items": {
+						"$ref": "#/$defs/source"
+					},
+					"uniqueItems": true
+				}
+			},
+			"required": ["fontFamilies", "sources"],
+			"additionalProperties": false
+		},
+		"source": {
+			"type": "object",
+			"properties": {
+				"fullNames": {
+					"type": "array",
+					"items": {
+						"type": "string"
+					}
+				},
+				"weights": {
+					"type": "array",
+					"items": {
+						"oneOf": [
+							{
+								"type": "integer"
+							},
+							{
+								"type": "string"
+							}
+						]
+					},
+					"uniqueItems": true
+				},
+				"style": {
+					"type": "string"
+				},
+				"unicode_range": {
+					"type": "string"
+				}
+			},
+			"required": ["fullNames"],
+			"additionalProperties": false
+		}
+	}
 }
