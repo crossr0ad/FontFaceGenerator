@@ -67,7 +67,7 @@ rules:
       - Osaka
       - MicrosoftJhengHeiRegular
       - 微軟正黑體
-      - Noto Sans JP
+      - Source Han Sans JP
       # 特殊フォント
       - -apple-system
       - BlinkMacSystemFont
@@ -77,32 +77,38 @@ rules:
       - X-LocaleSpecific-Light
       - X-LocaleSpecific-Extrabold
     sources:
-      # Source Han Sans JP
+      # Noto Sans JP
       - fullNames:
-          - Source Han Sans JP ExtraLight
+          - Noto Sans JP ExtraLight
+          - Noto Sans JP Thin
         weights:
           - 100
+      - fullNames:
+          - Noto Sans JP Light
+        weights:
           - 200
       - fullNames:
-          - Source Han Sans JP Light
+          - Noto Sans JP DemiLight
         weights:
           - 300
       - fullNames:
-          - Source Han Sans JP
-          - Source Han Sans JP Normal
+          - Noto Sans JP
+          - Noto Sans JP Regular
+          - Noto Sans JP Normal
         weights:
           - 400
       - fullNames:
-          - Source Han Sans JP Medium
+          - Noto Sans JP Medium
         weights:
           - 500
           - 600
       - fullNames:
-          - Source Han Sans JP Bold
+          - Noto Sans JP Bold
         weights:
           - 700
       - fullNames:
-          - Source Han Sans JP Heavy
+          - Noto Sans JP Black
+          - Noto Sans JP Heavy
         weights:
           - 800
           - 900
@@ -356,37 +362,40 @@ rules:
       - MS Mincho
       - HGS明朝E
       - HGSMinchoE
+      - Source Serif JP
       - ui-serif
     sources:
       - fullNames:
-          - Source Han Serif JP ExtraLight
+          - Noto Serif JP ExtraLight
+          - Noto Serif JP Thin
         weights:
           - 100
           - 200
       - fullNames:
-          - Source Han Serif JP Light
+          - Noto Serif JP Light
         weights:
           - 300
       - fullNames:
-          - Source Han Serif JP
-          - Source Han Serif JP Regular
-          - Source Han Serif JP Normal
+          - Noto Serif JP
+          - Noto Serif JP Regular
+          - Noto Serif JP Normal
         weights:
           - 400
       - fullNames:
-          - Source Han Serif JP Medium
+          - Noto Serif JP Medium
         weights:
           - 500
       - fullNames:
-          - Source Han Serif JP SemiBold
+          - Noto Serif JP SemiBold
         weights:
           - 600
       - fullNames:
-          - Source Han Serif JP Bold
+          - Noto Serif JP Bold
         weights:
           - 700
       - fullNames:
-          - Source Han Serif JP Heavy
+          - Noto Serif JP Black
+          - Noto Serif JP Heavy
         weights:
           - 800
           - 900
