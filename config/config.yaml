@@ -77,38 +77,38 @@ rules:
       - X-LocaleSpecific-Light
       - X-LocaleSpecific-Extrabold
     sources:
-      # Noto Sans JP
+      # Gen Interface JP
       - fullNames:
-          - Noto Sans JP ExtraLight
-          - Noto Sans JP Thin
+          - Gen Interface JP ExtraLight
+          - Gen Interface JP Thin
         weights:
           - 100
       - fullNames:
-          - Noto Sans JP Light
+          - Gen Interface JP Light
         weights:
           - 200
       - fullNames:
-          - Noto Sans JP DemiLight
+          - Gen Interface JP DemiLight
         weights:
           - 300
       - fullNames:
-          - Noto Sans JP
-          - Noto Sans JP Regular
-          - Noto Sans JP Normal
+          - Gen Interface JP
+          - Gen Interface JP Regular
+          - Gen Interface JP Normal
         weights:
           - 400
       - fullNames:
-          - Noto Sans JP Medium
+          - Gen Interface JP Medium
         weights:
           - 500
           - 600
       - fullNames:
-          - Noto Sans JP Bold
+          - Gen Interface JP Bold
         weights:
           - 700
       - fullNames:
-          - Noto Sans JP Black
-          - Noto Sans JP Heavy
+          - Gen Interface JP Black
+          - Gen Interface JP Heavy
         weights:
           - 800
           - 900

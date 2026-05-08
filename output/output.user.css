@@ -1,55 +1,61 @@
+/* ==UserStyle==
+@name Font Substitution
+@namespace https://github.com/crossr0ad/FontFaceGenerator/
+@version 0.1.7
+==/UserStyle== */
+
 @font-face {
 	font-family: "MS PGothic";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "MS PGothic";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "MS PGothic";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "MS PGothic";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "MS PGothic";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "MS PGothic";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "MS PGothic";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "MS PGothic";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "MS PGothic";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -190,55 +196,55 @@
 @font-face {
 	font-family: "MS Pゴシック";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "MS Pゴシック";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "MS Pゴシック";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "MS Pゴシック";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "MS Pゴシック";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "MS Pゴシック";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "MS Pゴシック";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "MS Pゴシック";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "MS Pゴシック";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -379,55 +385,55 @@
 @font-face {
 	font-family: "ＭＳ Ｐゴシック";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "ＭＳ Ｐゴシック";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "ＭＳ Ｐゴシック";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "ＭＳ Ｐゴシック";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "ＭＳ Ｐゴシック";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "ＭＳ Ｐゴシック";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "ＭＳ Ｐゴシック";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "ＭＳ Ｐゴシック";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "ＭＳ Ｐゴシック";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -568,55 +574,55 @@
 @font-face {
 	font-family: "MS UI Gothic";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "MS UI Gothic";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "MS UI Gothic";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "MS UI Gothic";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "MS UI Gothic";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "MS UI Gothic";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "MS UI Gothic";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "MS UI Gothic";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "MS UI Gothic";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -757,55 +763,55 @@
 @font-face {
 	font-family: "MS UIゴシック";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "MS UIゴシック";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "MS UIゴシック";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "MS UIゴシック";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "MS UIゴシック";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "MS UIゴシック";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "MS UIゴシック";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "MS UIゴシック";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "MS UIゴシック";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -946,55 +952,55 @@
 @font-face {
 	font-family: "Meiryo";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "Meiryo";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "Meiryo";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "Meiryo";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "Meiryo";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "Meiryo";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "Meiryo";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "Meiryo";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "Meiryo";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -1135,55 +1141,55 @@
 @font-face {
 	font-family: "メイリオ";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "メイリオ";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "メイリオ";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "メイリオ";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "メイリオ";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "メイリオ";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "メイリオ";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "メイリオ";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "メイリオ";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -1324,55 +1330,55 @@
 @font-face {
 	font-family: "Meiryo UI";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "Meiryo UI";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "Meiryo UI";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "Meiryo UI";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "Meiryo UI";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "Meiryo UI";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "Meiryo UI";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "Meiryo UI";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "Meiryo UI";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -1513,55 +1519,55 @@
 @font-face {
 	font-family: "メイリオ UI";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "メイリオ UI";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "メイリオ UI";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "メイリオ UI";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "メイリオ UI";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "メイリオ UI";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "メイリオ UI";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "メイリオ UI";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "メイリオ UI";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -1702,55 +1708,55 @@
 @font-face {
 	font-family: "Yu Gothic";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "Yu Gothic";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "Yu Gothic";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "Yu Gothic";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "Yu Gothic";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "Yu Gothic";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "Yu Gothic";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "Yu Gothic";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "Yu Gothic";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -1891,55 +1897,55 @@
 @font-face {
 	font-family: "YuGothic";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "YuGothic";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "YuGothic";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "YuGothic";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "YuGothic";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "YuGothic";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "YuGothic";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "YuGothic";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "YuGothic";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -2080,55 +2086,55 @@
 @font-face {
 	font-family: "YuGothic-Regular";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "YuGothic-Regular";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "YuGothic-Regular";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "YuGothic-Regular";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "YuGothic-Regular";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "YuGothic-Regular";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "YuGothic-Regular";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "YuGothic-Regular";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "YuGothic-Regular";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -2269,55 +2275,55 @@
 @font-face {
 	font-family: "游ゴシック";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "游ゴシック";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "游ゴシック";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "游ゴシック";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "游ゴシック";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "游ゴシック";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "游ゴシック";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "游ゴシック";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "游ゴシック";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -2458,55 +2464,55 @@
 @font-face {
 	font-family: "Original Yu Gothic";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "Original Yu Gothic";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "Original Yu Gothic";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "Original Yu Gothic";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "Original Yu Gothic";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "Original Yu Gothic";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "Original Yu Gothic";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "Original Yu Gothic";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "Original Yu Gothic";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -2647,55 +2653,55 @@
 @font-face {
 	font-family: "CustomYuGothicM";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "CustomYuGothicM";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "CustomYuGothicM";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "CustomYuGothicM";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "CustomYuGothicM";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "CustomYuGothicM";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "CustomYuGothicM";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "CustomYuGothicM";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "CustomYuGothicM";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -2836,55 +2842,55 @@
 @font-face {
 	font-family: "MyYuGothicM";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "MyYuGothicM";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "MyYuGothicM";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "MyYuGothicM";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "MyYuGothicM";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "MyYuGothicM";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "MyYuGothicM";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "MyYuGothicM";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "MyYuGothicM";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -3025,55 +3031,55 @@
 @font-face {
 	font-family: "Yu Gothic Light";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "Yu Gothic Light";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "Yu Gothic Light";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "Yu Gothic Light";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "Yu Gothic Light";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "Yu Gothic Light";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "Yu Gothic Light";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "Yu Gothic Light";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "Yu Gothic Light";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -3214,55 +3220,55 @@
 @font-face {
 	font-family: "Yu Gothic-Light";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "Yu Gothic-Light";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "Yu Gothic-Light";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "Yu Gothic-Light";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "Yu Gothic-Light";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "Yu Gothic-Light";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "Yu Gothic-Light";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "Yu Gothic-Light";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "Yu Gothic-Light";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -3403,55 +3409,55 @@
 @font-face {
 	font-family: "YuGothic Light";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "YuGothic Light";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "YuGothic Light";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "YuGothic Light";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "YuGothic Light";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "YuGothic Light";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "YuGothic Light";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "YuGothic Light";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "YuGothic Light";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -3592,55 +3598,55 @@
 @font-face {
 	font-family: "YuGothic-Light";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "YuGothic-Light";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "YuGothic-Light";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "YuGothic-Light";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "YuGothic-Light";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "YuGothic-Light";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "YuGothic-Light";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "YuGothic-Light";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "YuGothic-Light";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -3781,55 +3787,55 @@
 @font-face {
 	font-family: "游ゴシック Light";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "游ゴシック Light";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "游ゴシック Light";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "游ゴシック Light";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "游ゴシック Light";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "游ゴシック Light";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "游ゴシック Light";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "游ゴシック Light";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "游ゴシック Light";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -3970,55 +3976,55 @@
 @font-face {
 	font-family: "游ゴシック-Light";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "游ゴシック-Light";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "游ゴシック-Light";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "游ゴシック-Light";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "游ゴシック-Light";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "游ゴシック-Light";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "游ゴシック-Light";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "游ゴシック-Light";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "游ゴシック-Light";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -4159,55 +4165,55 @@
 @font-face {
 	font-family: "Yu Gothic M";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "Yu Gothic M";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "Yu Gothic M";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "Yu Gothic M";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "Yu Gothic M";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "Yu Gothic M";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "Yu Gothic M";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "Yu Gothic M";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "Yu Gothic M";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -4348,55 +4354,55 @@
 @font-face {
 	font-family: "Yu Gothic-M";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "Yu Gothic-M";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "Yu Gothic-M";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "Yu Gothic-M";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "Yu Gothic-M";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "Yu Gothic-M";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "Yu Gothic-M";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "Yu Gothic-M";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "Yu Gothic-M";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -4537,55 +4543,55 @@
 @font-face {
 	font-family: "Yu GothicM";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "Yu GothicM";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "Yu GothicM";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "Yu GothicM";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "Yu GothicM";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "Yu GothicM";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "Yu GothicM";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "Yu GothicM";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "Yu GothicM";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -4726,55 +4732,55 @@
 @font-face {
 	font-family: "Yu Gothic Medium";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "Yu Gothic Medium";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "Yu Gothic Medium";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "Yu Gothic Medium";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "Yu Gothic Medium";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "Yu Gothic Medium";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "Yu Gothic Medium";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "Yu Gothic Medium";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "Yu Gothic Medium";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -4915,55 +4921,55 @@
 @font-face {
 	font-family: "Yu Gothic-Medium";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "Yu Gothic-Medium";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "Yu Gothic-Medium";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "Yu Gothic-Medium";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "Yu Gothic-Medium";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "Yu Gothic-Medium";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "Yu Gothic-Medium";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "Yu Gothic-Medium";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "Yu Gothic-Medium";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -5104,55 +5110,55 @@
 @font-face {
 	font-family: "YuGothic M";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "YuGothic M";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "YuGothic M";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "YuGothic M";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "YuGothic M";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "YuGothic M";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "YuGothic M";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "YuGothic M";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "YuGothic M";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -5293,55 +5299,55 @@
 @font-face {
 	font-family: "YuGothic-M";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "YuGothic-M";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "YuGothic-M";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "YuGothic-M";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "YuGothic-M";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "YuGothic-M";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "YuGothic-M";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "YuGothic-M";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "YuGothic-M";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -5482,55 +5488,55 @@
 @font-face {
 	font-family: "YuGothicM";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "YuGothicM";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "YuGothicM";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "YuGothicM";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "YuGothicM";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "YuGothicM";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "YuGothicM";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "YuGothicM";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "YuGothicM";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -5671,55 +5677,55 @@
 @font-face {
 	font-family: "YuGothic Medium";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "YuGothic Medium";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "YuGothic Medium";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "YuGothic Medium";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "YuGothic Medium";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "YuGothic Medium";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "YuGothic Medium";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "YuGothic Medium";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "YuGothic Medium";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -5860,55 +5866,55 @@
 @font-face {
 	font-family: "YuGothic-Medium";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "YuGothic-Medium";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "YuGothic-Medium";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "YuGothic-Medium";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "YuGothic-Medium";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "YuGothic-Medium";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "YuGothic-Medium";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "YuGothic-Medium";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "YuGothic-Medium";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -6049,55 +6055,55 @@
 @font-face {
 	font-family: "游ゴシック M";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "游ゴシック M";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "游ゴシック M";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "游ゴシック M";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "游ゴシック M";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "游ゴシック M";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "游ゴシック M";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "游ゴシック M";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "游ゴシック M";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -6238,55 +6244,55 @@
 @font-face {
 	font-family: "游ゴシック-M";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "游ゴシック-M";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "游ゴシック-M";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "游ゴシック-M";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "游ゴシック-M";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "游ゴシック-M";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "游ゴシック-M";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "游ゴシック-M";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "游ゴシック-M";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -6427,55 +6433,55 @@
 @font-face {
 	font-family: "游ゴシックM";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "游ゴシックM";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "游ゴシックM";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "游ゴシックM";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "游ゴシックM";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "游ゴシックM";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "游ゴシックM";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "游ゴシックM";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "游ゴシックM";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -6616,55 +6622,55 @@
 @font-face {
 	font-family: "游ゴシック Medium";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "游ゴシック Medium";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "游ゴシック Medium";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "游ゴシック Medium";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "游ゴシック Medium";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "游ゴシック Medium";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "游ゴシック Medium";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "游ゴシック Medium";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "游ゴシック Medium";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -6805,55 +6811,55 @@
 @font-face {
 	font-family: "游ゴシック-Medium";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "游ゴシック-Medium";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "游ゴシック-Medium";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "游ゴシック-Medium";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "游ゴシック-Medium";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "游ゴシック-Medium";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "游ゴシック-Medium";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "游ゴシック-Medium";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "游ゴシック-Medium";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -6994,55 +7000,55 @@
 @font-face {
 	font-family: "Yu Gothic Bold";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "Yu Gothic Bold";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "Yu Gothic Bold";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "Yu Gothic Bold";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "Yu Gothic Bold";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "Yu Gothic Bold";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "Yu Gothic Bold";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "Yu Gothic Bold";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "Yu Gothic Bold";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -7183,55 +7189,55 @@
 @font-face {
 	font-family: "Yu Gothic-Bold";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "Yu Gothic-Bold";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "Yu Gothic-Bold";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "Yu Gothic-Bold";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "Yu Gothic-Bold";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "Yu Gothic-Bold";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "Yu Gothic-Bold";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "Yu Gothic-Bold";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "Yu Gothic-Bold";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -7372,55 +7378,55 @@
 @font-face {
 	font-family: "YuGothic Bold";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "YuGothic Bold";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "YuGothic Bold";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "YuGothic Bold";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "YuGothic Bold";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "YuGothic Bold";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "YuGothic Bold";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "YuGothic Bold";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "YuGothic Bold";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -7561,55 +7567,55 @@
 @font-face {
 	font-family: "YuGothic-Bold";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "YuGothic-Bold";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "YuGothic-Bold";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "YuGothic-Bold";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "YuGothic-Bold";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "YuGothic-Bold";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "YuGothic-Bold";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "YuGothic-Bold";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "YuGothic-Bold";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -7750,55 +7756,55 @@
 @font-face {
 	font-family: "游ゴシック Bold";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "游ゴシック Bold";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "游ゴシック Bold";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "游ゴシック Bold";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "游ゴシック Bold";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "游ゴシック Bold";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "游ゴシック Bold";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "游ゴシック Bold";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "游ゴシック Bold";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -7939,55 +7945,55 @@
 @font-face {
 	font-family: "游ゴシック-Bold";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "游ゴシック-Bold";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "游ゴシック-Bold";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "游ゴシック-Bold";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "游ゴシック-Bold";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "游ゴシック-Bold";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "游ゴシック-Bold";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "游ゴシック-Bold";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "游ゴシック-Bold";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -8128,55 +8134,55 @@
 @font-face {
 	font-family: "游ゴシック UI";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "游ゴシック UI";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "游ゴシック UI";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "游ゴシック UI";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "游ゴシック UI";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "游ゴシック UI";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "游ゴシック UI";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "游ゴシック UI";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "游ゴシック UI";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -8317,55 +8323,55 @@
 @font-face {
 	font-family: "Yu Gothic UI";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "Yu Gothic UI";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "Yu Gothic UI";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "Yu Gothic UI";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "Yu Gothic UI";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "Yu Gothic UI";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "Yu Gothic UI";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "Yu Gothic UI";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "Yu Gothic UI";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -8506,55 +8512,55 @@
 @font-face {
 	font-family: "YuGothic UI";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "YuGothic UI";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "YuGothic UI";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "YuGothic UI";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "YuGothic UI";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "YuGothic UI";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "YuGothic UI";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "YuGothic UI";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "YuGothic UI";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -8695,55 +8701,55 @@
 @font-face {
 	font-family: "YuGothicUI";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "YuGothicUI";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "YuGothicUI";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "YuGothicUI";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "YuGothicUI";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "YuGothicUI";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "YuGothicUI";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "YuGothicUI";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "YuGothicUI";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -8884,55 +8890,55 @@
 @font-face {
 	font-family: "BIZ UDPゴシック";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "BIZ UDPゴシック";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "BIZ UDPゴシック";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "BIZ UDPゴシック";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "BIZ UDPゴシック";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "BIZ UDPゴシック";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "BIZ UDPゴシック";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "BIZ UDPゴシック";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "BIZ UDPゴシック";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -9073,55 +9079,55 @@
 @font-face {
 	font-family: "BIZ UDPGothic";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "BIZ UDPGothic";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "BIZ UDPGothic";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "BIZ UDPGothic";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "BIZ UDPGothic";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "BIZ UDPGothic";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "BIZ UDPGothic";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "BIZ UDPGothic";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "BIZ UDPGothic";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -9262,55 +9268,55 @@
 @font-face {
 	font-family: "UD Digi Kyokasho NP-R";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "UD Digi Kyokasho NP-R";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "UD Digi Kyokasho NP-R";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "UD Digi Kyokasho NP-R";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "UD Digi Kyokasho NP-R";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "UD Digi Kyokasho NP-R";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "UD Digi Kyokasho NP-R";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "UD Digi Kyokasho NP-R";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "UD Digi Kyokasho NP-R";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -9451,55 +9457,55 @@
 @font-face {
 	font-family: "UD Digi Kyokasho NP-B";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "UD Digi Kyokasho NP-B";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "UD Digi Kyokasho NP-B";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "UD Digi Kyokasho NP-B";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "UD Digi Kyokasho NP-B";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "UD Digi Kyokasho NP-B";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "UD Digi Kyokasho NP-B";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "UD Digi Kyokasho NP-B";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "UD Digi Kyokasho NP-B";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -9640,55 +9646,55 @@
 @font-face {
 	font-family: "Microsoft YaHei";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "Microsoft YaHei";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "Microsoft YaHei";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "Microsoft YaHei";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "Microsoft YaHei";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "Microsoft YaHei";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "Microsoft YaHei";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "Microsoft YaHei";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "Microsoft YaHei";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -9829,55 +9835,55 @@
 @font-face {
 	font-family: "Microsoft YaHei UI";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "Microsoft YaHei UI";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "Microsoft YaHei UI";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "Microsoft YaHei UI";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "Microsoft YaHei UI";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "Microsoft YaHei UI";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "Microsoft YaHei UI";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "Microsoft YaHei UI";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "Microsoft YaHei UI";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -10018,55 +10024,55 @@
 @font-face {
 	font-family: "Osaka";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "Osaka";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "Osaka";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "Osaka";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "Osaka";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "Osaka";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "Osaka";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "Osaka";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "Osaka";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -10207,55 +10213,55 @@
 @font-face {
 	font-family: "MicrosoftJhengHeiRegular";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "MicrosoftJhengHeiRegular";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "MicrosoftJhengHeiRegular";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "MicrosoftJhengHeiRegular";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "MicrosoftJhengHeiRegular";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "MicrosoftJhengHeiRegular";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "MicrosoftJhengHeiRegular";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "MicrosoftJhengHeiRegular";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "MicrosoftJhengHeiRegular";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -10396,55 +10402,55 @@
 @font-face {
 	font-family: "微軟正黑體";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "微軟正黑體";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "微軟正黑體";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "微軟正黑體";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "微軟正黑體";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "微軟正黑體";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "微軟正黑體";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "微軟正黑體";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "微軟正黑體";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -10585,55 +10591,55 @@
 @font-face {
 	font-family: "Source Han Sans JP";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "Source Han Sans JP";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "Source Han Sans JP";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "Source Han Sans JP";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "Source Han Sans JP";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "Source Han Sans JP";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "Source Han Sans JP";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "Source Han Sans JP";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "Source Han Sans JP";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -10774,55 +10780,55 @@
 @font-face {
 	font-family: "-apple-system";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "-apple-system";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "-apple-system";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "-apple-system";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "-apple-system";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "-apple-system";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "-apple-system";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "-apple-system";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "-apple-system";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -10963,55 +10969,55 @@
 @font-face {
 	font-family: "BlinkMacSystemFont";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "BlinkMacSystemFont";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "BlinkMacSystemFont";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "BlinkMacSystemFont";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "BlinkMacSystemFont";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "BlinkMacSystemFont";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "BlinkMacSystemFont";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "BlinkMacSystemFont";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "BlinkMacSystemFont";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -11152,55 +11158,55 @@
 @font-face {
 	font-family: "system-ui";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "system-ui";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "system-ui";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "system-ui";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "system-ui";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "system-ui";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "system-ui";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "system-ui";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "system-ui";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -11341,55 +11347,55 @@
 @font-face {
 	font-family: "ui-sans-serif";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "ui-sans-serif";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "ui-sans-serif";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "ui-sans-serif";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "ui-sans-serif";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "ui-sans-serif";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "ui-sans-serif";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "ui-sans-serif";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "ui-sans-serif";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -11530,55 +11536,55 @@
 @font-face {
 	font-family: "X-LocaleSpecific";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "X-LocaleSpecific";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "X-LocaleSpecific";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "X-LocaleSpecific";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "X-LocaleSpecific";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "X-LocaleSpecific";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "X-LocaleSpecific";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "X-LocaleSpecific";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "X-LocaleSpecific";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -11719,55 +11725,55 @@
 @font-face {
 	font-family: "X-LocaleSpecific-Light";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "X-LocaleSpecific-Light";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "X-LocaleSpecific-Light";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "X-LocaleSpecific-Light";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "X-LocaleSpecific-Light";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "X-LocaleSpecific-Light";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "X-LocaleSpecific-Light";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "X-LocaleSpecific-Light";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "X-LocaleSpecific-Light";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
@@ -11908,55 +11914,55 @@
 @font-face {
 	font-family: "X-LocaleSpecific-Extrabold";
 	font-weight: 100;
-	src: local("Noto Sans JP ExtraLight"), local("Noto Sans JP Thin");
+	src: local("Gen Interface JP ExtraLight"), local("Gen Interface JP Thin");
 }
 
 @font-face {
 	font-family: "X-LocaleSpecific-Extrabold";
 	font-weight: 200;
-	src: local("Noto Sans JP Light");
+	src: local("Gen Interface JP Light");
 }
 
 @font-face {
 	font-family: "X-LocaleSpecific-Extrabold";
 	font-weight: 300;
-	src: local("Noto Sans JP DemiLight");
+	src: local("Gen Interface JP DemiLight");
 }
 
 @font-face {
 	font-family: "X-LocaleSpecific-Extrabold";
 	font-weight: 400;
-	src: local("Noto Sans JP"), local("Noto Sans JP Regular"), local("Noto Sans JP Normal");
+	src: local("Gen Interface JP"), local("Gen Interface JP Regular"), local("Gen Interface JP Normal");
 }
 
 @font-face {
 	font-family: "X-LocaleSpecific-Extrabold";
 	font-weight: 500;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "X-LocaleSpecific-Extrabold";
 	font-weight: 600;
-	src: local("Noto Sans JP Medium");
+	src: local("Gen Interface JP Medium");
 }
 
 @font-face {
 	font-family: "X-LocaleSpecific-Extrabold";
 	font-weight: 700;
-	src: local("Noto Sans JP Bold");
+	src: local("Gen Interface JP Bold");
 }
 
 @font-face {
 	font-family: "X-LocaleSpecific-Extrabold";
 	font-weight: 800;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {
 	font-family: "X-LocaleSpecific-Extrabold";
 	font-weight: 900;
-	src: local("Noto Sans JP Black"), local("Noto Sans JP Heavy");
+	src: local("Gen Interface JP Black"), local("Gen Interface JP Heavy");
 }
 
 @font-face {

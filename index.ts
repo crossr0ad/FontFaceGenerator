@@ -1,24 +1,32 @@
-import { YAML } from "bun";
 import { mkdir } from "node:fs/promises";
 import { parseArgs } from "node:util";
+import { YAML } from "bun";
 import { assertIsConfig, type Rule, type Source } from "./src/types.ts";
 
-const main = async (configPath: string, outfile: string): Promise<void> => {
+const main = async (
+	configPath: string,
+	outfile: string,
+	version: string,
+): Promise<void> => {
 	const configText = await Bun.file(configPath).text();
 
 	const config = YAML.parse(configText);
-	console.log({ config });
-
 	assertIsConfig(config);
-
 	console.log(`parsed ${config.rules.length} rules from '${configPath}'`);
 	console.log();
+
+	const header = `/* ==UserStyle==
+@name Font Substitution
+@namespace https://github.com/crossr0ad/FontFaceGenerator/
+@version ${version}
+==/UserStyle== */
+`;
 
 	const arr = config.rules.flatMap(procRule);
 
 	await mkdir(outfile.split("/").slice(0, -1).join("/"), { recursive: true });
 
-	await Bun.write(outfile, arr.join("\n"));
+	await Bun.write(outfile, `${header}\n${arr.join("\n")}`);
 	console.log(`wrote ${arr.length} rules to ${outfile}`);
 };
 
@@ -79,15 +87,20 @@ if (import.meta.main) {
 			outfile: {
 				type: "string",
 				short: "o",
-				default: "output/output.css",
+				default: "output/output.user.css",
+			},
+			version: {
+				type: "string",
+				short: "v",
+				default: "0.0.1",
 			},
 		},
 		strict: true,
 		allowPositionals: true,
 	});
 
-	const { config, outfile } = values;
+	const { config, outfile, version } = values;
 	console.log({ values });
 
-	await main(config, outfile);
+	await main(config, outfile, version);
 }
