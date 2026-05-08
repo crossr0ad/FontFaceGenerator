@@ -1,0 +1,438 @@
+# yaml-language-server: $schema=config.schema.json
+rules:
+  - description: sans-serif
+    fontFamilies:
+      # MS Pゴシック
+      - MS PGothic
+      - MS Pゴシック
+      - ＭＳ Ｐゴシック
+      - MS UI Gothic
+      - MS UIゴシック
+      # メイリオ
+      - Meiryo
+      - メイリオ
+      - Meiryo UI
+      - メイリオ UI
+      # 游ゴシック
+      - Yu Gothic
+      - YuGothic
+      - YuGothic-Regular
+      - 游ゴシック
+      - Original Yu Gothic
+      - CustomYuGothicM
+      - MyYuGothicM
+      # 游ゴシック Light
+      - Yu Gothic Light
+      - Yu Gothic-Light
+      - YuGothic Light
+      - YuGothic-Light
+      - 游ゴシック Light
+      - 游ゴシック-Light
+      # 游ゴシック Medium
+      - Yu Gothic M
+      - Yu Gothic-M
+      - Yu GothicM
+      - Yu Gothic Medium
+      - Yu Gothic-Medium
+      - YuGothic M
+      - YuGothic-M
+      - YuGothicM
+      - YuGothic Medium
+      - YuGothic-Medium
+      - 游ゴシック M
+      - 游ゴシック-M
+      - 游ゴシックM
+      - 游ゴシック Medium
+      - 游ゴシック-Medium
+      # 游ゴシック Bold
+      - Yu Gothic Bold
+      - Yu Gothic-Bold
+      - YuGothic Bold
+      - YuGothic-Bold
+      - 游ゴシック Bold
+      - 游ゴシック-Bold
+      # 游ゴシック UI
+      - 游ゴシック UI
+      - Yu Gothic UI
+      - YuGothic UI
+      - YuGothicUI
+      # BIZ UDPゴシック
+      - BIZ UDPゴシック
+      - BIZ UDPGothic
+      # その他
+      - UD Digi Kyokasho NP-R
+      - UD Digi Kyokasho NP-B
+      - Microsoft YaHei
+      - Microsoft YaHei UI
+      - Osaka
+      - MicrosoftJhengHeiRegular
+      - 微軟正黑體
+      - Source Han Sans JP
+      # 特殊フォント
+      - -apple-system
+      - BlinkMacSystemFont
+      - system-ui
+      - ui-sans-serif
+      - X-LocaleSpecific
+      - X-LocaleSpecific-Light
+      - X-LocaleSpecific-Extrabold
+    sources:
+      # Noto Sans JP
+      - fullNames:
+          - Noto Sans JP ExtraLight
+          - Noto Sans JP Thin
+        weights:
+          - 100
+      - fullNames:
+          - Noto Sans JP Light
+        weights:
+          - 200
+      - fullNames:
+          - Noto Sans JP DemiLight
+        weights:
+          - 300
+      - fullNames:
+          - Noto Sans JP
+          - Noto Sans JP Regular
+          - Noto Sans JP Normal
+        weights:
+          - 400
+      - fullNames:
+          - Noto Sans JP Medium
+        weights:
+          - 500
+          - 600
+      - fullNames:
+          - Noto Sans JP Bold
+        weights:
+          - 700
+      - fullNames:
+          - Noto Sans JP Black
+          - Noto Sans JP Heavy
+        weights:
+          - 800
+          - 900
+      # Inter
+      - fullNames:
+          - Inter Variable Text Thin
+          - Inter Thin
+        weights:
+          - 100
+        unicode_range: U+0021-007F
+      - fullNames:
+          - Inter Variable Text ExtraLight
+          - Inter ExtraLight
+        weights:
+          - 200
+        unicode_range: U+0021-007F
+      - fullNames:
+          - Inter Variable Text Light
+          - Inter Light
+        weights:
+          - 300
+        unicode_range: U+0021-007F
+      - fullNames:
+          - Inter Variable Text
+          - Inter Regular
+          - Inter
+        weights:
+          - 400
+        unicode_range: U+0021-007F
+      - fullNames:
+          - Inter Variable Text Medium
+          - Inter Medium
+        weights:
+          - 500
+        unicode_range: U+0021-007F
+      - fullNames:
+          - Inter Variable Text SemiBold
+          - Inter SemiBold
+        weights:
+          - 600
+        unicode_range: U+0021-007F
+      - fullNames:
+          - Inter Variable Text Bold
+          - Inter Bold
+        weights:
+          - 700
+        unicode_range: U+0021-007F
+      - fullNames:
+          - Inter Variable Text ExtraBold
+          - Inter ExtraBold
+        weights:
+          - 800
+        unicode_range: U+0021-007F
+      - fullNames:
+          - Inter Variable Text Black
+          - Inter Black
+        weights:
+          - 900
+        unicode_range: U+0021-007F
+      # Inter Italic
+      - fullNames:
+          - Inter Variable Text Thin Italic
+          - Inter Thin Italic
+        weights:
+          - 100
+        style: italic
+        unicode_range: U+0021-007F
+      - fullNames:
+          - Inter Variable Text ExtraLight Italic
+          - Inter ExtraLight Italic
+        weights:
+          - 200
+        style: italic
+        unicode_range: U+0021-007F
+      - fullNames:
+          - Inter Variable Text Light Italic
+          - Inter Light Italic
+        weights:
+          - 300
+        style: italic
+        unicode_range: U+0021-007F
+      - fullNames:
+          - Inter Variable Text Italic
+          - Inter Regular Italic
+          - Inter Italic
+        weights:
+          - 400
+        style: italic
+        unicode_range: U+0021-007F
+      - fullNames:
+          - Inter Variable Text Medium Italic
+          - Inter Medium Italic
+        weights:
+          - 500
+        style: italic
+        unicode_range: U+0021-007F
+      - fullNames:
+          - Inter Variable Text SemiBold Italic
+          - Inter SemiBold Italic
+        weights:
+          - 600
+        style: italic
+        unicode_range: U+0021-007F
+      - fullNames:
+          - Inter Variable Text Bold Italic
+          - Inter Bold Italic
+        weights:
+          - 700
+        style: italic
+        unicode_range: U+0021-007F
+      - fullNames:
+          - Inter Variable Text ExtraBold Italic
+          - Inter ExtraBold Italic
+        weights:
+          - 800
+        style: italic
+        unicode_range: U+0021-007F
+      - fullNames:
+          - Inter Variable Text Black Italic
+          - Inter Black Italic
+        weights:
+          - 900
+        style: italic
+        unicode_range: U+0021-007F
+  - description: sans-serif [en]
+    fontFamilies:
+      - Arial
+      - Helvetica
+      - Helvetica Neue
+      - Lucida Grande
+      - Lucida Sans Unicode
+      - Open Sans
+      - Roboto
+      - Segoe UI
+      - Tahoma
+      - Titillium Text
+      - Titillium Web
+      - TitilliumText22LRegular
+      - Trebuchet MS
+      - Verdana
+    sources:
+      - fullNames:
+          - Inter Variable Text Thin
+          - Inter Thin
+        weights:
+          - 100
+      - fullNames:
+          - Inter Variable Text ExtraLight
+          - Inter ExtraLight
+        weights:
+          - 200
+      - fullNames:
+          - Inter Variable Text Light
+          - Inter Light
+        weights:
+          - 300
+      - fullNames:
+          - Inter Variable Text
+          - Inter Regular
+          - Inter
+        weights:
+          - 400
+      - fullNames:
+          - Inter Variable Text Medium
+          - Inter Medium
+        weights:
+          - 500
+      - fullNames:
+          - Inter Variable Text SemiBold
+          - Inter SemiBold
+        weights:
+          - 600
+      - fullNames:
+          - Inter Variable Text Bold
+          - Inter Bold
+        weights:
+          - 700
+      - fullNames:
+          - Inter Variable Text ExtraBold
+          - Inter ExtraBold
+        weights:
+          - 800
+      - fullNames:
+          - Inter Variable Text Black
+          - Inter Black
+        weights:
+          - 900
+      # Italic
+      - fullNames:
+          - Inter Variable Text Thin Italic
+          - Inter Thin Italic
+        weights:
+          - 100
+        style: italic
+      - fullNames:
+          - Inter Variable Text ExtraLight Italic
+          - Inter ExtraLight Italic
+        weights:
+          - 200
+        style: italic
+      - fullNames:
+          - Inter Variable Text Light Italic
+          - Inter Light Italic
+        weights:
+          - 300
+        style: italic
+      - fullNames:
+          - Inter Variable Text Italic
+          - Inter Regular Italic
+          - Inter Italic
+        weights:
+          - 400
+        style: italic
+      - fullNames:
+          - Inter Variable Text Medium Italic
+          - Inter Medium Italic
+        weights:
+          - 500
+        style: italic
+      - fullNames:
+          - Inter Variable Text SemiBold Italic
+          - Inter SemiBold Italic
+        weights:
+          - 600
+        style: italic
+      - fullNames:
+          - Inter Variable Text Bold Italic
+          - Inter Bold Italic
+        weights:
+          - 700
+        style: italic
+      - fullNames:
+          - Inter Variable Text ExtraBold Italic
+          - Inter ExtraBold Italic
+        weights:
+          - 800
+        style: italic
+      - fullNames:
+          - Inter Variable Text Black Italic
+          - Inter Black Italic
+        weights:
+          - 900
+        style: italic
+  - description: serif
+    fontFamilies:
+      - MS P明朝
+      - ＭＳ Ｐ明朝
+      - MS PMincho
+      - MS 明朝
+      - ＭＳ 明朝
+      - MS Mincho
+      - HGS明朝E
+      - HGSMinchoE
+      - Source Serif JP
+      - ui-serif
+    sources:
+      - fullNames:
+          - Noto Serif JP ExtraLight
+          - Noto Serif JP Thin
+        weights:
+          - 100
+          - 200
+      - fullNames:
+          - Noto Serif JP Light
+        weights:
+          - 300
+      - fullNames:
+          - Noto Serif JP
+          - Noto Serif JP Regular
+          - Noto Serif JP Normal
+        weights:
+          - 400
+      - fullNames:
+          - Noto Serif JP Medium
+        weights:
+          - 500
+      - fullNames:
+          - Noto Serif JP SemiBold
+        weights:
+          - 600
+      - fullNames:
+          - Noto Serif JP Bold
+        weights:
+          - 700
+      - fullNames:
+          - Noto Serif JP Black
+          - Noto Serif JP Heavy
+        weights:
+          - 800
+          - 900
+  - description: monospace
+    fontFamilies:
+      - MS Gothic
+      - MS ゴシック
+      - ＭＳ ゴシック
+      - BIZ UDゴシック
+      - BIZ UDGothic
+      - Andale Mono
+      - Consolas
+      - Courier
+      - Courier New
+      - Liberation Mono
+      - Lucida Console
+      - Menlo
+      - Monaco
+      - Roboto Mono
+      - Segoe UI Mono
+      - SF Mono
+      - SFMono-Medium
+      - Ubuntu Mono
+      - ui-monospace
+    sources:
+      - fullNames:
+          - UDEV Gothic NF Regular
+          - UDEV Gothic NF
+      - fullNames:
+          - UDEV Gothic NF Bold
+        weights:
+          - bold
+      - fullNames:
+          - UDEV Gothic NF Italic
+        style: italic
+      - fullNames:
+          - UDEV Gothic NF BoldItalic
+        weights:
+          - bold
+        style: italic
