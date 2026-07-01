@@ -81,34 +81,43 @@ rules:
       - fullNames:
           - Gen Interface JP ExtraLight
           - Gen Interface JP Thin
+          - Noto Sans JP ExtraLight
+          - Noto Sans JP Thin
         weights:
           - 100
       - fullNames:
           - Gen Interface JP Light
+          - Noto Sans JP Light
         weights:
           - 200
       - fullNames:
           - Gen Interface JP DemiLight
+          - Noto Sans JP DemiLight
         weights:
           - 300
       - fullNames:
           - Gen Interface JP
           - Gen Interface JP Regular
           - Gen Interface JP Normal
+          - Noto Sans JP
+          - Noto Sans JP Regular
+          - Noto Sans JP Normal
         weights:
           - 400
       - fullNames:
           - Gen Interface JP Medium
+          - Noto Sans JP Medium
         weights:
           - 500
           - 600
       - fullNames:
           - Gen Interface JP Bold
+          - Noto Sans JP Bold
         weights:
           - 700
       - fullNames:
           - Gen Interface JP Black
-          - Gen Interface JP Heavy
+          - Noto Sans JP Heavy
         weights:
           - 800
           - 900
@@ -241,7 +250,7 @@ rules:
       - MS Mincho
       - HGS明朝E
       - HGSMinchoE
-      - Source Serif JP
+      - Source Han Serif JP
       - ui-serif
     sources:
       - fullNames:
